@@ -1,0 +1,11 @@
+import type {Design} from './design';
+export type Pair={lv:string;en:string};
+export type GalleryPhoto={id:string;url:string;caption:Pair};
+export type MenuItem={id:string;name:Pair;description:Pair;price:string};
+export type MenuSection={id:string;title:Pair;items:MenuItem[]};
+export type MenuDocument={sections?:MenuSection[];id:string;kind:'drinks'|'food';title:Pair;url:string};
+export type ReviewRatings={google?:number|null;tripadvisor?:number|null;checkedAt?:string};
+export type Location={heroPhotoId?:string;vipGallery?:GalleryPhoto[];ratings?:ReviewRatings;menus?:MenuDocument[];slug?:string;gallery?:GalleryPhoto[];restrictions?:Pair;vipEnabled?:boolean;vipDetails?:Pair;id:string;name:string;address:string;area:Pair;signature:Pair;description:Pair;price:string;studentPrice:string;image:string;ticketUrl:string;googleUrl:string;tripadvisorUrl:string;mapEmbed:string;hours:Pair;published:boolean;menuUrl:string};
+export type Event={imageAlt?:Pair;id:string;title:Pair;description:Pair;date:string;endDate:string;locationId:string;image:string;link:string;published:boolean};
+export type Game={slug?:string;details?:Pair;locationIds?:string[];id:string;title:Pair;description:Pair;image:string;published:boolean};
+export type SiteContent={gamesSchemaVersion?:number;menuSchemaVersion?:number;games?:Game[];logo?:string;images?:{games:string;partyBanner:string;partyPage:string};design?:Design;copy?:Record<string,Pair>;heroVideo:string;heroPoster:string;drinksUrl:string;socials:{facebook:string;instagram:string;tiktok:string};locations:Location[];events:Event[]};

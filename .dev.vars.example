@@ -1,0 +1,5 @@
+# Copy this file to .dev.vars for LOCAL development only.
+# Never commit .dev.vars. For production use wrangler secret put.
+ADMIN_USERNAME="Admin"
+ADMIN_PASSWORD="REPLACE_WITH_YOUR_OWN_STRONG_PASSWORD"
+SESSION_SECRET="REPLACE_WITH_64_RANDOM_HEX_CHARACTERS"

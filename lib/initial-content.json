@@ -1,0 +1,4873 @@
+{
+  "games": [
+    {
+      "id": "darts",
+      "title": {
+        "lv": "Šautriņas",
+        "en": "Darts"
+      },
+      "description": {
+        "lv": "Precizitāte, punkti un draudzīga sacensība — pārbaudi savu trāpīgumu.",
+        "en": "Aim for the bullseye and challenge your friends to a game."
+      },
+      "image": "/assets/imported/6ccec348-5206-421e-b870-9701d2331e49.jpg",
+      "published": true,
+      "locationIds": [
+        "xl",
+        "barona"
+      ]
+    },
+    {
+      "id": "pool",
+      "title": {
+        "lv": "Biljards",
+        "en": "Pool"
+      },
+      "description": {
+        "lv": "Izplāno nākamo sitienu un izaicini draugus uz partiju.",
+        "en": "Plan your next shot and challenge your friends to a round."
+      },
+      "image": "/assets/barona-pool.jpg",
+      "published": true,
+      "locationIds": [
+        "xl",
+        "barona"
+      ]
+    },
+    {
+      "id": "racing",
+      "title": {
+        "lv": "Auto simulators",
+        "en": "Racing simulator"
+      },
+      "description": {
+        "lv": "Sēdies pie stūres un izmēģini savas braukšanas prasmes virtuālajā trasē.",
+        "en": "Take the wheel and test your driving skills on a virtual track."
+      },
+      "image": "/assets/imported/c6d48535-91cc-4a7b-9950-5150f83cce77.jpg",
+      "published": true,
+      "locationIds": [
+        "xl",
+        "barona"
+      ]
+    },
+    {
+      "id": "table-tennis",
+      "title": {
+        "lv": "Galda teniss",
+        "en": "Table tennis"
+      },
+      "description": {
+        "lv": "Ātra bumbiņa, asas reakcijas un vēl viena izspēle.",
+        "en": "Fast rallies, quick reactions and one more round."
+      },
+      "image": "/assets/imported/bd60568b-aa6b-4677-980e-23f6ecf2bf98.jpg",
+      "published": true,
+      "locationIds": [
+        "xl",
+        "barona"
+      ]
+    },
+    {
+      "id": "air-hockey",
+      "title": {
+        "lv": "Gaisa hokejs",
+        "en": "Air hockey"
+      },
+      "description": {
+        "lv": "Aizstāvi savus vārtus un raidī ripu pretinieka pusē.",
+        "en": "Defend your goal and send the puck flying past your opponent."
+      },
+      "image": "/assets/imported/75a60cd8-bfb8-4b7d-a712-de6e639a886e.jpg",
+      "published": true,
+      "locationIds": [
+        "xl",
+        "barona"
+      ]
+    },
+    {
+      "id": "xbox",
+      "title": {
+        "lv": "Xbox",
+        "en": "Xbox"
+      },
+      "description": {
+        "lv": "Izvēlies spēli un pievienojies konsoles spēļu izaicinājumam.",
+        "en": "Pick a game and join the console gaming challenge."
+      },
+      "image": "/assets/imported/1f34157f-804a-4ff7-89fd-817f29eb8eff.jpg",
+      "published": true,
+      "locationIds": [
+        "xl",
+        "barona"
+      ]
+    },
+    {
+      "id": "playstation",
+      "title": {
+        "lv": "PlayStation",
+        "en": "PlayStation"
+      },
+      "description": {
+        "lv": "Paņem kontrolieri un izbaudi spēļu vakaru kopā ar savējiem.",
+        "en": "Grab a controller and enjoy a gaming night with your people."
+      },
+      "image": "/assets/imported/642ec7d6-d13d-4d98-9507-071c5ffc66f5.jpg",
+      "published": true,
+      "locationIds": [
+        "xl",
+        "barona"
+      ]
+    },
+    {
+      "id": "seated-football",
+      "title": {
+        "lv": "Sēžamais futbols",
+        "en": "Seated football"
+      },
+      "description": {
+        "lv": "Futbols citā formātā — sēdies spēlē un izaicini draugus.",
+        "en": "Football with a twist — take a seat and challenge your friends."
+      },
+      "image": "/assets/imported/456de9aa-2235-4dc5-9e03-890edab4de4d.jpg",
+      "published": true,
+      "locationIds": [
+        "xl",
+        "barona"
+      ]
+    },
+    {
+      "id": "novuss",
+      "title": {
+        "lv": "Novuss",
+        "en": "Novuss"
+      },
+      "description": {
+        "lv": "Klasiska spēle, kur precizitāte satiekas ar taktiku.",
+        "en": "A classic game where accuracy meets tactics."
+      },
+      "image": "/assets/imported/86da78a4-346a-41bc-a257-96ec2e548a83.jpg",
+      "published": true,
+      "locationIds": [
+        "xl"
+      ]
+    },
+    {
+      "id": "arcades",
+      "title": {
+        "lv": "Arkādes",
+        "en": "Arcade games"
+      },
+      "description": {
+        "lv": "Atklāj arkāžu izaicinājumus un mēģini pārspēt savu rezultātu.",
+        "en": "Explore arcade challenges and try to beat your best score."
+      },
+      "image": "/assets/imported/8e8bacbd-cb17-4438-98bb-9f6e7c78b7da.jpg",
+      "published": true,
+      "locationIds": [
+        "xl",
+        "barona"
+      ]
+    },
+    {
+      "id": "minigolf",
+      "slug": "minigolfs",
+      "title": {
+        "lv": "Neona minigolfs",
+        "en": "Neon mini golf"
+      },
+      "description": {
+        "lv": "Minigolfa izaicinājums neona gaismās Players Club Barona ielā.",
+        "en": "A neon mini golf challenge at Players Club on Barona Street."
+      },
+      "image": "/assets/barona-minigolf.jpg",
+      "published": true,
+      "locationIds": [
+        "barona"
+      ]
+    },
+    {
+      "id": "rodeo",
+      "slug": "rodeo-bullis",
+      "title": {
+        "lv": "Rodeo bullis",
+        "en": "Rodeo bull"
+      },
+      "description": {
+        "lv": "Pārbaudi līdzsvaru un noturību uz rodeo buļļa Players Club XL.",
+        "en": "Test your balance and endurance on the rodeo bull at Players Club XL."
+      },
+      "image": "/assets/xl-bull.jpg",
+      "published": true,
+      "locationIds": [
+        "xl"
+      ]
+    }
+  ],
+  "logo": "/assets/playersclub-logo.png",
+  "images": {
+    "games": "/assets/imported/c6d48535-91cc-4a7b-9950-5150f83cce77.jpg",
+    "partyBanner": "/assets/hero.jpg",
+    "partyPage": "/assets/hero.jpg"
+  },
+  "design": {
+    "headingFont": "barlow",
+    "bodyFont": "dm-sans",
+    "background": "#0b0c0a",
+    "accent": "#ffe533",
+    "text": "#f6f4e9",
+    "muted": "#aaa99e",
+    "desktop": {
+      "hero": 146,
+      "section": 94,
+      "subheading": 36,
+      "body": 13,
+      "button": 13,
+      "navigation": 23
+    },
+    "mobile": {
+      "hero": 74,
+      "section": 50,
+      "subheading": 30,
+      "body": 12,
+      "button": 11,
+      "navigation": 11
+    },
+    "sectionSpace": 95,
+    "sectionSpaceMobile": 58,
+    "lineHeight": 1.8
+  },
+  "copy": {
+    "playTitle": {
+      "lv": "Dažas no mūsu daudzajām spēlēm.",
+      "en": "Few of our many games."
+    },
+    "partyTitle": {
+      "lv": "JŪSU Balīte\nMŪSU TELPAS.",
+      "en": "YOUR Party.\nOUR PLACE."
+    },
+    "latest": {
+      "lv": "Notikumu un pasākumu sarakts .",
+      "en": "Upcoming Events."
+    },
+    "emptyNews": {
+      "lv": "Nenokavē jaunumus.",
+      "en": "Dont miss out."
+    },
+    "choose": {
+      "lv": "Izvēlies klubu",
+      "en": "Choose your club"
+    },
+    "heroSub": {
+      "lv": "Nāc ar draugiem vai viens pats.",
+      "en": "Come with friends or on your own. "
+    },
+    "heroTop": {
+      "lv": "BĀRS & SPĒLES",
+      "en": "BAR & GAMES"
+    },
+    "locationSub": {
+      "lv": "Katrai vietai savs raksturs.",
+      "en": "Each club has its own character."
+    },
+    "games": {
+      "lv": "Spēle",
+      "en": "Game"
+    },
+    "gameSticker": {
+      "lv": "FUN THAT NEVER ENDS",
+      "en": "FUN THAT NEVER ENDS"
+    },
+    "drinks": {
+      "lv": "Menu",
+      "en": "Menu"
+    },
+    "news": {
+      "lv": "Pasākumi",
+      "en": "Events"
+    },
+    "hero1": {
+      "lv": "LABĀKIE VAKARI",
+      "en": "BEST NIGHTS"
+    },
+    "drinksTop": {
+      "lv": "STARP SPĒLĒM",
+      "en": "BETWEEN TWO ROUNDS."
+    },
+    "drinksTitle": {
+      "lv": "IEČEKOJAT MŪSU MENU",
+      "en": "CHECK OUT OUR MENU"
+    },
+    "openMenu": {
+      "lv": "Atvērt Menu",
+      "en": "Open menu"
+    },
+    "drinksSub": {
+      "lv": "Atrodi savu nākamo mīļāko dzērienu.",
+      "en": "Find your next favourite drinks."
+    }
+  },
+  "heroVideo": "/assets/imported/9b26539d-7fe3-4527-849f-ba78b532f906.mp4",
+  "heroPoster": "/assets/hero.jpg",
+  "drinksUrl": "/assets/drinks.png",
+  "socials": {
+    "facebook": "https://www.facebook.com/playersclublv",
+    "instagram": "https://www.instagram.com/players_club_lv/",
+    "tiktok": "https://www.tiktok.com/@playersclub_lv"
+  },
+  "locations": [
+    {
+      "id": "xl",
+      "heroPhotoId": "xl-bull",
+      "ratings": {
+        "google": 4.9,
+        "tripadvisor": 4.9,
+        "checkedAt": "2026-10-20"
+      },
+      "menus": [
+        {
+          "id": "legacy-drinks",
+          "kind": "drinks",
+          "title": {
+            "lv": "Dzērienkarte Latviski",
+            "en": "Drinks menu Latvian"
+          },
+          "url": "/assets/imported/61703107-3c28-49ec-8a0b-a502a529abec.png",
+          "sections": [
+            {
+              "id": "section-0",
+              "title": {
+                "lv": "Bezalkoholiskie dzērieni",
+                "en": "Soft drinks"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Ūdens",
+                    "en": "Water"
+                  },
+                  "price": "1,00 €",
+                  "description": {
+                    "lv": "350 ml (glāze)",
+                    "en": "350 ml (glass)"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Ūdens pudelē",
+                    "en": "Bottled water"
+                  },
+                  "price": "2,50 €",
+                  "description": {
+                    "lv": "500 ml, negāzēts / gāzēts",
+                    "en": "500 ml, still / sparkling"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Pepsi / Mirinda / 7UP / Toniks",
+                    "en": "Pepsi / Mirinda / 7UP / Tonic"
+                  },
+                  "price": "3,00 / 12,00 €",
+                  "description": {
+                    "lv": "250 ml (glāze) / 1,5 l pudele",
+                    "en": "250 ml (glass) / 1.5 l bottle"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Sula",
+                    "en": "Juice"
+                  },
+                  "price": "3,00 / 10,00 €",
+                  "description": {
+                    "lv": "250 ml (glāze) / 1 l paka",
+                    "en": "250 ml (glass) / 1 l carton"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Enerģijas dzēriens",
+                    "en": "Energy drink"
+                  },
+                  "price": "3,50 €",
+                  "description": {
+                    "lv": "250 ml",
+                    "en": "250 ml"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Kafija / Tēja",
+                    "en": "Coffee / Tea"
+                  },
+                  "price": "2,50 €",
+                  "description": {
+                    "lv": "200 ml",
+                    "en": "200 ml"
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Limonāde 1,5 l",
+                    "en": "Lemonade 1.5 l"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Ķiršu, aveņu, upeņu, dzērveņu vai zemeņu",
+                    "en": "Cherry, raspberry, blackcurrant, cranberry or strawberry"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-1",
+              "title": {
+                "lv": "Bezalkoholiskie kokteiļi",
+                "en": "Alcohol-free cocktails"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Sunrise",
+                    "en": "Sunrise"
+                  },
+                  "price": "4,00 €",
+                  "description": {
+                    "lv": "Apelsīnu sula, grenadīna sīrups",
+                    "en": "Orange juice, grenadine syrup"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Safe Sex On The Beach",
+                    "en": "Safe Sex On The Beach"
+                  },
+                  "price": "4,00 €",
+                  "description": {
+                    "lv": "Apelsīnu un dzērveņu sula",
+                    "en": "Orange and cranberry juice"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Not So Blue Lagoon",
+                    "en": "Not So Blue Lagoon"
+                  },
+                  "price": "6,00 €",
+                  "description": {
+                    "lv": "Zilais curaçao sīrups, laima sula un 7UP",
+                    "en": "Blue curaçao syrup, lime juice and 7UP"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Sinless Spritz",
+                    "en": "Sinless Spritz"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Spritz sīrups, gāzēts ūdens un 7UP",
+                    "en": "Spritz syrup, sparkling water and 7UP"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Nojito",
+                    "en": "Nojito"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "Mojito sīrups, brūnais cukurs, piparmētra, laims, 7UP un gāzēts ūdens",
+                    "en": "Mojito syrup, brown sugar, mint, lime, 7UP and sparkling water"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-2",
+              "title": {
+                "lv": "Kokteiļi",
+                "en": "Cocktails"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Rums / Viskijs ar Pepsi",
+                    "en": "Rum / Whisky with Pepsi"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Tumšais rums vai viskijs ar Pepsi",
+                    "en": "Dark rum or whisky with Pepsi"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Džins ar toniku",
+                    "en": "Gin and tonic"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Džins ar toniku",
+                    "en": "Gin with tonic"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Skrūve",
+                    "en": "Screwdriver"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Vodka ar sulu",
+                    "en": "Vodka with juice"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Cuba Libre",
+                    "en": "Cuba Libre"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Gaišais rums, Pepsi un laima sula",
+                    "en": "White rum, Pepsi and lime juice"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Skinny Bitch",
+                    "en": "Skinny Bitch"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Vodka, gāzēts ūdens un laima sula",
+                    "en": "Vodka, sparkling water and lime juice"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Tequila Sunrise",
+                    "en": "Tequila Sunrise"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "Tekila, apelsīnu sula un grenadīna sīrups",
+                    "en": "Tequila, orange juice and grenadine syrup"
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Blue Lagoon",
+                    "en": "Blue Lagoon"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "Vodka, zilais curaçao sīrups, laima sula un 7UP",
+                    "en": "Vodka, blue curaçao syrup, lime juice and 7UP"
+                  }
+                },
+                {
+                  "id": "item-7",
+                  "name": {
+                    "lv": "Sex On The Beach",
+                    "en": "Sex On The Beach"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Vodka, džins, dzērveņu un apelsīnu sula",
+                    "en": "Vodka, gin, cranberry and orange juice"
+                  }
+                },
+                {
+                  "id": "item-8",
+                  "name": {
+                    "lv": "Moscow Mule",
+                    "en": "Moscow Mule"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Vodka, ingvera alus un laima sula",
+                    "en": "Vodka, ginger beer and lime juice"
+                  }
+                },
+                {
+                  "id": "item-9",
+                  "name": {
+                    "lv": "Vodka / Jäger Energy",
+                    "en": "Vodka / Jäger Energy"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Vodka vai Jägermeister ar enerģijas dzērienu",
+                    "en": "Vodka or Jägermeister with an energy drink"
+                  }
+                },
+                {
+                  "id": "item-10",
+                  "name": {
+                    "lv": "Aperitivo Spritz",
+                    "en": "Aperitivo Spritz"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Prosecco, Luxardo Aperitivo un gāzēts ūdens",
+                    "en": "Prosecco, Luxardo Aperitivo and sparkling water"
+                  }
+                },
+                {
+                  "id": "item-11",
+                  "name": {
+                    "lv": "Passion Sour",
+                    "en": "Passion Sour"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Vaniļas rums, laima sula, marakujas sīrups un Easy Foam putas",
+                    "en": "Vanilla rum, lime juice, passion fruit syrup and Easy Foam"
+                  }
+                },
+                {
+                  "id": "item-12",
+                  "name": {
+                    "lv": "Whiskey Sour",
+                    "en": "Whiskey Sour"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Viskijs, laima sula, cukura sīrups un Easy Foam putas",
+                    "en": "Whisky, lime juice, sugar syrup and Easy Foam"
+                  }
+                },
+                {
+                  "id": "item-13",
+                  "name": {
+                    "lv": "Cosmopolitan",
+                    "en": "Cosmopolitan"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Vodka, apelsīnu liķieris, dzērveņu un laima sula",
+                    "en": "Vodka, orange liqueur, cranberry and lime juice"
+                  }
+                },
+                {
+                  "id": "item-14",
+                  "name": {
+                    "lv": "Klasiskais Mojito",
+                    "en": "Classic Mojito"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Baltais rums, laims, 7UP, brūnais cukurs, piparmētra un gāzēts ūdens",
+                    "en": "White rum, lime, 7UP, brown sugar, mint and sparkling water"
+                  }
+                },
+                {
+                  "id": "item-15",
+                  "name": {
+                    "lv": "Long Island Iced Tea",
+                    "en": "Long Island Iced Tea"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Vodka, baltais rums, tekila, džins, apelsīnu liķieris, laima sula un Pepsi",
+                    "en": "Vodka, white rum, tequila, gin, orange liqueur, lime juice and Pepsi"
+                  }
+                },
+                {
+                  "id": "item-16",
+                  "name": {
+                    "lv": "Pornstar Martini",
+                    "en": "Pornstar Martini"
+                  },
+                  "price": "15,00 €",
+                  "description": {
+                    "lv": "Vodka, vaniļas sīrups, marakujas liķieris un biezenis, laima sula, cukura sīrups, ananāsu sula un Prosecco šots",
+                    "en": "Vodka, vanilla syrup, passion fruit liqueur and purée, lime juice, sugar syrup, pineapple juice and a Prosecco shot"
+                  }
+                },
+                {
+                  "id": "item-17",
+                  "name": {
+                    "lv": "Bārmeņa Special",
+                    "en": "Bartender’s Special"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Katram bārmenim savs īpašais kokteilis",
+                    "en": "Each bartender has their own special cocktail"
+                  }
+                },
+                {
+                  "id": "item-18",
+                  "name": {
+                    "lv": "Long Island Delux",
+                    "en": "Long Island Delux"
+                  },
+                  "price": "20,00 €",
+                  "description": {
+                    "lv": "Grey Goose vodka, Bumbu rums, Don Julio tekila, Hedonist džins, Cointreau liķieris, laima sula un Pepsi",
+                    "en": "Grey Goose vodka, Bumbu rum, Don Julio tequila, Hedonist gin, Cointreau, lime juice and Pepsi"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-3",
+              "title": {
+                "lv": "Players Club Originals",
+                "en": "Players Club Originals"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Vanilla Beach",
+                    "en": "Vanilla Beach"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Vaniļas rums, svaigs laims, apelsīnu sula un 7UP",
+                    "en": "Vanilla rum, fresh lime, orange juice and 7UP"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Sweet Trouble",
+                    "en": "Sweet Trouble"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Vodka, zemeņu liķieris un sīrups, laima sula, cukura sīrups un 7UP",
+                    "en": "Vodka, strawberry liqueur and syrup, lime juice, sugar syrup and 7UP"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Kikiberry",
+                    "en": "Kikiberry"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Tekila, apelsīnu liķieris, dzērveņu sula, laima sula, dzērveņu sīrups",
+                    "en": "Tequila, orange liqueur, cranberry juice, lime juice and cranberry syrup"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Summer Sunset",
+                    "en": "Summer Sunset"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Gaišais rums, Luxardo Aperitivo, Prosecco, citronu sula, cukura sīrups, Mojito sīrups un gāzēts ūdens",
+                    "en": "White rum, Luxardo Aperitivo, Prosecco, lemon juice, sugar syrup, Mojito syrup and sparkling water"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Passionate Dreams",
+                    "en": "Passionate Dreams"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Baileys, vodka, marakujas sīrups un ananāsu sula",
+                    "en": "Baileys, vodka, passion fruit syrup and pineapple juice"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-4",
+              "title": {
+                "lv": "Alus",
+                "en": "Beer"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Bauskas",
+                    "en": "Bauskas"
+                  },
+                  "price": "4,00 / 5,00 €",
+                  "description": {
+                    "lv": "300 / 500 ml, izlejamais",
+                    "en": "300 / 500 ml, draught"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Madonas nefiltrētais",
+                    "en": "Madonas unfiltered"
+                  },
+                  "price": "4,50 / 5,50 €",
+                  "description": {
+                    "lv": "300 / 500 ml, izlejamais",
+                    "en": "300 / 500 ml, draught"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Alus / Sidrs pudelē",
+                    "en": "Bottled beer / cider"
+                  },
+                  "price": "4,50 €",
+                  "description": {
+                    "lv": "250–500 ml",
+                    "en": "250–500 ml"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Corona",
+                    "en": "Corona"
+                  },
+                  "price": "5,00 €",
+                  "description": {
+                    "lv": "350 ml",
+                    "en": "350 ml"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Salitos",
+                    "en": "Salitos"
+                  },
+                  "price": "4,50 €",
+                  "description": {
+                    "lv": "330 ml",
+                    "en": "330 ml"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-5",
+              "title": {
+                "lv": "Vīns",
+                "en": "Wine"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Prosecco",
+                    "en": "Prosecco"
+                  },
+                  "price": "6,00 / 30,00 €",
+                  "description": {
+                    "lv": "125 / 750 ml",
+                    "en": "125 / 750 ml"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Colpasso Pinot Grigio",
+                    "en": "Colpasso Pinot Grigio"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "250 ml, balts, sauss",
+                    "en": "250 ml, dry white"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Colpasso Rosso",
+                    "en": "Colpasso Rosso"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "250 ml, sarkans, sauss",
+                    "en": "250 ml, dry red"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Kendermanns Riesling",
+                    "en": "Kendermanns Riesling"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "187 ml, pussalds",
+                    "en": "187 ml, medium sweet"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "BOSIO Asti Dolce",
+                    "en": "BOSIO Asti Dolce"
+                  },
+                  "price": "7,00 / 35,00 €",
+                  "description": {
+                    "lv": "125 ml / pudele, dzirkstošais vīns, salds",
+                    "en": "125 ml / bottle, sweet sparkling wine"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-6",
+              "title": {
+                "lv": "Šoti · 1 / 10",
+                "en": "Shots · 1 / 10"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Vodka / Rums / Viskijs",
+                    "en": "Vodka / Rum / Whisky"
+                  },
+                  "price": "4,00 / 35,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Džins / Tekila",
+                    "en": "Gin / Tequila"
+                  },
+                  "price": "4,00 / 35,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Pirātu dārgums",
+                    "en": "Pirate’s Treasure"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Zilā acs",
+                    "en": "Blue Eye"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Woo Woo",
+                    "en": "Woo Woo"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Bubble Gum",
+                    "en": "Bubble Gum"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Absinta Šreks",
+                    "en": "Absinthe Shrek"
+                  },
+                  "price": "6,00 / 50,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-7",
+                  "name": {
+                    "lv": "B52",
+                    "en": "B52"
+                  },
+                  "price": "6,00 / 50,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-8",
+                  "name": {
+                    "lv": "Jack Daniel’s / Fireball",
+                    "en": "Jack Daniel’s / Fireball"
+                  },
+                  "price": "5,00 / 45,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-9",
+                  "name": {
+                    "lv": "Baileys / Jägermeister",
+                    "en": "Baileys / Jägermeister"
+                  },
+                  "price": "5,00 / 45,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-10",
+                  "name": {
+                    "lv": "Rīgas balzāms / Moka",
+                    "en": "Riga Black Balsam / Moka"
+                  },
+                  "price": "5,00 / 45,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-11",
+                  "name": {
+                    "lv": "Grey Goose",
+                    "en": "Grey Goose"
+                  },
+                  "price": "8,00 / 70,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-12",
+                  "name": {
+                    "lv": "Black Label / Chivas Regal",
+                    "en": "Black Label / Chivas Regal"
+                  },
+                  "price": "7,00 / 60,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-13",
+                  "name": {
+                    "lv": "Hennessy",
+                    "en": "Hennessy"
+                  },
+                  "price": "8,00 / 70,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-14",
+                  "name": {
+                    "lv": "Bumbu rums",
+                    "en": "Bumbu rum"
+                  },
+                  "price": "7,00 / 60,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-15",
+                  "name": {
+                    "lv": "Don Julio Blanco",
+                    "en": "Don Julio Blanco"
+                  },
+                  "price": "11,00 / 100,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-7",
+              "title": {
+                "lv": "Pudeles",
+                "en": "Bottles"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Vodka / Viskijs / Džins",
+                    "en": "Vodka / Whisky / Gin"
+                  },
+                  "price": "90,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Rums / Tekila",
+                    "en": "Rum / Tequila"
+                  },
+                  "price": "60,00 €",
+                  "description": {
+                    "lv": "0,7 l",
+                    "en": "0.7 l"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Jack Daniel’s / Fireball",
+                    "en": "Jack Daniel’s / Fireball"
+                  },
+                  "price": "110,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Baileys / Jägermeister",
+                    "en": "Baileys / Jägermeister"
+                  },
+                  "price": "110,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Rīgas balzāms",
+                    "en": "Riga Black Balsam"
+                  },
+                  "price": "90,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Grey Goose",
+                    "en": "Grey Goose"
+                  },
+                  "price": "180,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Black Label",
+                    "en": "Black Label"
+                  },
+                  "price": "140,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-7",
+                  "name": {
+                    "lv": "Hennessy",
+                    "en": "Hennessy"
+                  },
+                  "price": "160,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-8",
+                  "name": {
+                    "lv": "Bumbu rums",
+                    "en": "Bumbu rum"
+                  },
+                  "price": "110,00 €",
+                  "description": {
+                    "lv": "0,7 l",
+                    "en": "0.7 l"
+                  }
+                },
+                {
+                  "id": "item-9",
+                  "name": {
+                    "lv": "Don Julio Blanco",
+                    "en": "Don Julio Blanco"
+                  },
+                  "price": "180,00 €",
+                  "description": {
+                    "lv": "0,7 l",
+                    "en": "0.7 l"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dcff3b54-d77c-4259-8f90-c91dd64b9926",
+          "kind": "drinks",
+          "title": {
+            "lv": "Dzērienkarte Angliski",
+            "en": "Drinks menu English"
+          },
+          "url": "/assets/imported/634ed81f-4f73-426b-91ac-937bde33c288.png",
+          "sections": [
+            {
+              "id": "section-0",
+              "title": {
+                "lv": "Bezalkoholiskie dzērieni",
+                "en": "Soft drinks"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Ūdens",
+                    "en": "Water"
+                  },
+                  "price": "1,00 €",
+                  "description": {
+                    "lv": "350 ml (glāze)",
+                    "en": "350 ml (glass)"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Ūdens pudelē",
+                    "en": "Bottled water"
+                  },
+                  "price": "2,50 €",
+                  "description": {
+                    "lv": "500 ml, negāzēts / gāzēts",
+                    "en": "500 ml, still / sparkling"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Pepsi / Mirinda / 7UP / Toniks",
+                    "en": "Pepsi / Mirinda / 7UP / Tonic"
+                  },
+                  "price": "3,00 / 12,00 €",
+                  "description": {
+                    "lv": "250 ml (glāze) / 1,5 l pudele",
+                    "en": "250 ml (glass) / 1.5 l bottle"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Sula",
+                    "en": "Juice"
+                  },
+                  "price": "3,00 / 10,00 €",
+                  "description": {
+                    "lv": "250 ml (glāze) / 1 l paka",
+                    "en": "250 ml (glass) / 1 l carton"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Enerģijas dzēriens",
+                    "en": "Energy drink"
+                  },
+                  "price": "3,50 €",
+                  "description": {
+                    "lv": "250 ml",
+                    "en": "250 ml"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Kafija / Tēja",
+                    "en": "Coffee / Tea"
+                  },
+                  "price": "2,50 €",
+                  "description": {
+                    "lv": "200 ml",
+                    "en": "200 ml"
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Limonāde 1,5 l",
+                    "en": "Lemonade 1.5 l"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Ķiršu, aveņu, upeņu, dzērveņu vai zemeņu",
+                    "en": "Cherry, raspberry, blackcurrant, cranberry or strawberry"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-1",
+              "title": {
+                "lv": "Bezalkoholiskie kokteiļi",
+                "en": "Alcohol-free cocktails"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Sunrise",
+                    "en": "Sunrise"
+                  },
+                  "price": "4,00 €",
+                  "description": {
+                    "lv": "Apelsīnu sula, grenadīna sīrups",
+                    "en": "Orange juice, grenadine syrup"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Safe Sex On The Beach",
+                    "en": "Safe Sex On The Beach"
+                  },
+                  "price": "4,00 €",
+                  "description": {
+                    "lv": "Apelsīnu un dzērveņu sula",
+                    "en": "Orange and cranberry juice"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Not So Blue Lagoon",
+                    "en": "Not So Blue Lagoon"
+                  },
+                  "price": "6,00 €",
+                  "description": {
+                    "lv": "Zilais curaçao sīrups, laima sula un 7UP",
+                    "en": "Blue curaçao syrup, lime juice and 7UP"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Sinless Spritz",
+                    "en": "Sinless Spritz"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Spritz sīrups, gāzēts ūdens un 7UP",
+                    "en": "Spritz syrup, sparkling water and 7UP"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Nojito",
+                    "en": "Nojito"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "Mojito sīrups, brūnais cukurs, piparmētra, laims, 7UP un gāzēts ūdens",
+                    "en": "Mojito syrup, brown sugar, mint, lime, 7UP and sparkling water"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-2",
+              "title": {
+                "lv": "Kokteiļi",
+                "en": "Cocktails"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Rums / Viskijs ar Pepsi",
+                    "en": "Rum / Whisky with Pepsi"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Tumšais rums vai viskijs ar Pepsi",
+                    "en": "Dark rum or whisky with Pepsi"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Džins ar toniku",
+                    "en": "Gin and tonic"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Džins ar toniku",
+                    "en": "Gin with tonic"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Skrūve",
+                    "en": "Screwdriver"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Vodka ar sulu",
+                    "en": "Vodka with juice"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Cuba Libre",
+                    "en": "Cuba Libre"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Gaišais rums, Pepsi un laima sula",
+                    "en": "White rum, Pepsi and lime juice"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Skinny Bitch",
+                    "en": "Skinny Bitch"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Vodka, gāzēts ūdens un laima sula",
+                    "en": "Vodka, sparkling water and lime juice"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Tequila Sunrise",
+                    "en": "Tequila Sunrise"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "Tekila, apelsīnu sula un grenadīna sīrups",
+                    "en": "Tequila, orange juice and grenadine syrup"
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Blue Lagoon",
+                    "en": "Blue Lagoon"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "Vodka, zilais curaçao sīrups, laima sula un 7UP",
+                    "en": "Vodka, blue curaçao syrup, lime juice and 7UP"
+                  }
+                },
+                {
+                  "id": "item-7",
+                  "name": {
+                    "lv": "Sex On The Beach",
+                    "en": "Sex On The Beach"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Vodka, džins, dzērveņu un apelsīnu sula",
+                    "en": "Vodka, gin, cranberry and orange juice"
+                  }
+                },
+                {
+                  "id": "item-8",
+                  "name": {
+                    "lv": "Moscow Mule",
+                    "en": "Moscow Mule"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Vodka, ingvera alus un laima sula",
+                    "en": "Vodka, ginger beer and lime juice"
+                  }
+                },
+                {
+                  "id": "item-9",
+                  "name": {
+                    "lv": "Vodka / Jäger Energy",
+                    "en": "Vodka / Jäger Energy"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Vodka vai Jägermeister ar enerģijas dzērienu",
+                    "en": "Vodka or Jägermeister with an energy drink"
+                  }
+                },
+                {
+                  "id": "item-10",
+                  "name": {
+                    "lv": "Aperitivo Spritz",
+                    "en": "Aperitivo Spritz"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Prosecco, Luxardo Aperitivo un gāzēts ūdens",
+                    "en": "Prosecco, Luxardo Aperitivo and sparkling water"
+                  }
+                },
+                {
+                  "id": "item-11",
+                  "name": {
+                    "lv": "Passion Sour",
+                    "en": "Passion Sour"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Vaniļas rums, laima sula, marakujas sīrups un Easy Foam putas",
+                    "en": "Vanilla rum, lime juice, passion fruit syrup and Easy Foam"
+                  }
+                },
+                {
+                  "id": "item-12",
+                  "name": {
+                    "lv": "Whiskey Sour",
+                    "en": "Whiskey Sour"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Viskijs, laima sula, cukura sīrups un Easy Foam putas",
+                    "en": "Whisky, lime juice, sugar syrup and Easy Foam"
+                  }
+                },
+                {
+                  "id": "item-13",
+                  "name": {
+                    "lv": "Cosmopolitan",
+                    "en": "Cosmopolitan"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Vodka, apelsīnu liķieris, dzērveņu un laima sula",
+                    "en": "Vodka, orange liqueur, cranberry and lime juice"
+                  }
+                },
+                {
+                  "id": "item-14",
+                  "name": {
+                    "lv": "Klasiskais Mojito",
+                    "en": "Classic Mojito"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Baltais rums, laims, 7UP, brūnais cukurs, piparmētra un gāzēts ūdens",
+                    "en": "White rum, lime, 7UP, brown sugar, mint and sparkling water"
+                  }
+                },
+                {
+                  "id": "item-15",
+                  "name": {
+                    "lv": "Long Island Iced Tea",
+                    "en": "Long Island Iced Tea"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Vodka, baltais rums, tekila, džins, apelsīnu liķieris, laima sula un Pepsi",
+                    "en": "Vodka, white rum, tequila, gin, orange liqueur, lime juice and Pepsi"
+                  }
+                },
+                {
+                  "id": "item-16",
+                  "name": {
+                    "lv": "Pornstar Martini",
+                    "en": "Pornstar Martini"
+                  },
+                  "price": "15,00 €",
+                  "description": {
+                    "lv": "Vodka, vaniļas sīrups, marakujas liķieris un biezenis, laima sula, cukura sīrups, ananāsu sula un Prosecco šots",
+                    "en": "Vodka, vanilla syrup, passion fruit liqueur and purée, lime juice, sugar syrup, pineapple juice and a Prosecco shot"
+                  }
+                },
+                {
+                  "id": "item-17",
+                  "name": {
+                    "lv": "Bārmeņa Special",
+                    "en": "Bartender’s Special"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Katram bārmenim savs īpašais kokteilis",
+                    "en": "Each bartender has their own special cocktail"
+                  }
+                },
+                {
+                  "id": "item-18",
+                  "name": {
+                    "lv": "Long Island Delux",
+                    "en": "Long Island Delux"
+                  },
+                  "price": "20,00 €",
+                  "description": {
+                    "lv": "Grey Goose vodka, Bumbu rums, Don Julio tekila, Hedonist džins, Cointreau liķieris, laima sula un Pepsi",
+                    "en": "Grey Goose vodka, Bumbu rum, Don Julio tequila, Hedonist gin, Cointreau, lime juice and Pepsi"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-3",
+              "title": {
+                "lv": "Players Club Originals",
+                "en": "Players Club Originals"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Vanilla Beach",
+                    "en": "Vanilla Beach"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Vaniļas rums, svaigs laims, apelsīnu sula un 7UP",
+                    "en": "Vanilla rum, fresh lime, orange juice and 7UP"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Sweet Trouble",
+                    "en": "Sweet Trouble"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Vodka, zemeņu liķieris un sīrups, laima sula, cukura sīrups un 7UP",
+                    "en": "Vodka, strawberry liqueur and syrup, lime juice, sugar syrup and 7UP"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Kikiberry",
+                    "en": "Kikiberry"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Tekila, apelsīnu liķieris, dzērveņu sula, laima sula, dzērveņu sīrups",
+                    "en": "Tequila, orange liqueur, cranberry juice, lime juice and cranberry syrup"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Summer Sunset",
+                    "en": "Summer Sunset"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Gaišais rums, Luxardo Aperitivo, Prosecco, citronu sula, cukura sīrups, Mojito sīrups un gāzēts ūdens",
+                    "en": "White rum, Luxardo Aperitivo, Prosecco, lemon juice, sugar syrup, Mojito syrup and sparkling water"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Passionate Dreams",
+                    "en": "Passionate Dreams"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Baileys, vodka, marakujas sīrups un ananāsu sula",
+                    "en": "Baileys, vodka, passion fruit syrup and pineapple juice"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-4",
+              "title": {
+                "lv": "Alus",
+                "en": "Beer"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Bauskas",
+                    "en": "Bauskas"
+                  },
+                  "price": "4,00 / 5,00 €",
+                  "description": {
+                    "lv": "300 / 500 ml, izlejamais",
+                    "en": "300 / 500 ml, draught"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Madonas nefiltrētais",
+                    "en": "Madonas unfiltered"
+                  },
+                  "price": "4,50 / 5,50 €",
+                  "description": {
+                    "lv": "300 / 500 ml, izlejamais",
+                    "en": "300 / 500 ml, draught"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Alus / Sidrs pudelē",
+                    "en": "Bottled beer / cider"
+                  },
+                  "price": "4,50 €",
+                  "description": {
+                    "lv": "250–500 ml",
+                    "en": "250–500 ml"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Corona",
+                    "en": "Corona"
+                  },
+                  "price": "5,00 €",
+                  "description": {
+                    "lv": "350 ml",
+                    "en": "350 ml"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Salitos",
+                    "en": "Salitos"
+                  },
+                  "price": "4,50 €",
+                  "description": {
+                    "lv": "330 ml",
+                    "en": "330 ml"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-5",
+              "title": {
+                "lv": "Vīns",
+                "en": "Wine"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Prosecco",
+                    "en": "Prosecco"
+                  },
+                  "price": "6,00 / 30,00 €",
+                  "description": {
+                    "lv": "125 / 750 ml",
+                    "en": "125 / 750 ml"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Colpasso Pinot Grigio",
+                    "en": "Colpasso Pinot Grigio"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "250 ml, balts, sauss",
+                    "en": "250 ml, dry white"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Colpasso Rosso",
+                    "en": "Colpasso Rosso"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "250 ml, sarkans, sauss",
+                    "en": "250 ml, dry red"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Kendermanns Riesling",
+                    "en": "Kendermanns Riesling"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "187 ml, pussalds",
+                    "en": "187 ml, medium sweet"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "BOSIO Asti Dolce",
+                    "en": "BOSIO Asti Dolce"
+                  },
+                  "price": "7,00 / 35,00 €",
+                  "description": {
+                    "lv": "125 ml / pudele, dzirkstošais vīns, salds",
+                    "en": "125 ml / bottle, sweet sparkling wine"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-6",
+              "title": {
+                "lv": "Šoti · 1 / 10",
+                "en": "Shots · 1 / 10"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Vodka / Rums / Viskijs",
+                    "en": "Vodka / Rum / Whisky"
+                  },
+                  "price": "4,00 / 35,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Džins / Tekila",
+                    "en": "Gin / Tequila"
+                  },
+                  "price": "4,00 / 35,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Pirātu dārgums",
+                    "en": "Pirate’s Treasure"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Zilā acs",
+                    "en": "Blue Eye"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Woo Woo",
+                    "en": "Woo Woo"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Bubble Gum",
+                    "en": "Bubble Gum"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Absinta Šreks",
+                    "en": "Absinthe Shrek"
+                  },
+                  "price": "6,00 / 50,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-7",
+                  "name": {
+                    "lv": "B52",
+                    "en": "B52"
+                  },
+                  "price": "6,00 / 50,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-8",
+                  "name": {
+                    "lv": "Jack Daniel’s / Fireball",
+                    "en": "Jack Daniel’s / Fireball"
+                  },
+                  "price": "5,00 / 45,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-9",
+                  "name": {
+                    "lv": "Baileys / Jägermeister",
+                    "en": "Baileys / Jägermeister"
+                  },
+                  "price": "5,00 / 45,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-10",
+                  "name": {
+                    "lv": "Rīgas balzāms / Moka",
+                    "en": "Riga Black Balsam / Moka"
+                  },
+                  "price": "5,00 / 45,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-11",
+                  "name": {
+                    "lv": "Grey Goose",
+                    "en": "Grey Goose"
+                  },
+                  "price": "8,00 / 70,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-12",
+                  "name": {
+                    "lv": "Black Label / Chivas Regal",
+                    "en": "Black Label / Chivas Regal"
+                  },
+                  "price": "7,00 / 60,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-13",
+                  "name": {
+                    "lv": "Hennessy",
+                    "en": "Hennessy"
+                  },
+                  "price": "8,00 / 70,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-14",
+                  "name": {
+                    "lv": "Bumbu rums",
+                    "en": "Bumbu rum"
+                  },
+                  "price": "7,00 / 60,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-15",
+                  "name": {
+                    "lv": "Don Julio Blanco",
+                    "en": "Don Julio Blanco"
+                  },
+                  "price": "11,00 / 100,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-7",
+              "title": {
+                "lv": "Pudeles",
+                "en": "Bottles"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Vodka / Viskijs / Džins",
+                    "en": "Vodka / Whisky / Gin"
+                  },
+                  "price": "90,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Rums / Tekila",
+                    "en": "Rum / Tequila"
+                  },
+                  "price": "60,00 €",
+                  "description": {
+                    "lv": "0,7 l",
+                    "en": "0.7 l"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Jack Daniel’s / Fireball",
+                    "en": "Jack Daniel’s / Fireball"
+                  },
+                  "price": "110,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Baileys / Jägermeister",
+                    "en": "Baileys / Jägermeister"
+                  },
+                  "price": "110,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Rīgas balzāms",
+                    "en": "Riga Black Balsam"
+                  },
+                  "price": "90,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Grey Goose",
+                    "en": "Grey Goose"
+                  },
+                  "price": "180,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Black Label",
+                    "en": "Black Label"
+                  },
+                  "price": "140,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-7",
+                  "name": {
+                    "lv": "Hennessy",
+                    "en": "Hennessy"
+                  },
+                  "price": "160,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-8",
+                  "name": {
+                    "lv": "Bumbu rums",
+                    "en": "Bumbu rum"
+                  },
+                  "price": "110,00 €",
+                  "description": {
+                    "lv": "0,7 l",
+                    "en": "0.7 l"
+                  }
+                },
+                {
+                  "id": "item-9",
+                  "name": {
+                    "lv": "Don Julio Blanco",
+                    "en": "Don Julio Blanco"
+                  },
+                  "price": "180,00 €",
+                  "description": {
+                    "lv": "0,7 l",
+                    "en": "0.7 l"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "legacy-food",
+          "kind": "food",
+          "title": {
+            "lv": "Ēdienkarte",
+            "en": "Food menu"
+          },
+          "url": "/assets/menu-xl.jpg",
+          "sections": [
+            {
+              "id": "section-0",
+              "title": {
+                "lv": "Picas · 30 cm",
+                "en": "Pizzas · 30 cm"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Acapulco (asā)",
+                    "en": "Acapulco (spicy)"
+                  },
+                  "price": "14,00 €",
+                  "description": {
+                    "lv": "Siers, tomātu mērce, liellopa fileja, šampinjoni, sīpoli, jalapeño pipari, salsa",
+                    "en": "Cheese, tomato sauce, beef fillet, mushrooms, onions, jalapeños, salsa"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Desu",
+                    "en": "Salami"
+                  },
+                  "price": "13,00 €",
+                  "description": {
+                    "lv": "Siers, salami",
+                    "en": "Cheese, salami"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Hawaii",
+                    "en": "Hawaii"
+                  },
+                  "price": "13,00 €",
+                  "description": {
+                    "lv": "Siers, tomātu mērce, šķiņķis, ananāsi",
+                    "en": "Cheese, tomato sauce, ham, pineapple"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Rucolita",
+                    "en": "Rucolita"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Siers, tomātu mērce, rukola, cherry tomāti, parmezāns, PizzaTime garšvielas",
+                    "en": "Cheese, tomato sauce, rocket, cherry tomatoes, Parmesan, PizzaTime seasoning"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Meat Lover",
+                    "en": "Meat Lover"
+                  },
+                  "price": "15,00 €",
+                  "description": {
+                    "lv": "Mocarella, salami, šķiņķis, bekons, zaļie lociņi, dilles",
+                    "en": "Mozzarella, salami, ham, bacon, spring onions, dill"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Barbekina",
+                    "en": "Barbekina"
+                  },
+                  "price": "14,00 €",
+                  "description": {
+                    "lv": "Siers, tomātu mērce, vista, tomāti, sīpoli, bārbekjū mērce",
+                    "en": "Cheese, tomato sauce, chicken, tomatoes, onions, BBQ sauce"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-1",
+              "title": {
+                "lv": "Uzkodas",
+                "en": "Snacks"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Buffalo vistas spārniņi",
+                    "en": "Buffalo chicken wings"
+                  },
+                  "price": "6,00 €",
+                  "description": {
+                    "lv": "6 gab.",
+                    "en": "6 pieces"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Kartupeļi frī ar sieru",
+                    "en": "Cheese fries"
+                  },
+                  "price": "5,00 €",
+                  "description": {
+                    "lv": "200 g",
+                    "en": "200 g"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Sīpolu gredzeni",
+                    "en": "Onion rings"
+                  },
+                  "price": "5,00 €",
+                  "description": {
+                    "lv": "200 g",
+                    "en": "200 g"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Kalmāru gredzeni",
+                    "en": "Calamari rings"
+                  },
+                  "price": "5,00 €",
+                  "description": {
+                    "lv": "200 g",
+                    "en": "200 g"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Mocarellas siera standziņas",
+                    "en": "Mozzarella sticks"
+                  },
+                  "price": "5,00 €",
+                  "description": {
+                    "lv": "6 gab.",
+                    "en": "6 pieces"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Vistas nageti",
+                    "en": "Chicken nuggets"
+                  },
+                  "price": "5,50 €",
+                  "description": {
+                    "lv": "6 gab.",
+                    "en": "6 pieces"
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Kartupeļu pankūkas",
+                    "en": "Potato pancakes"
+                  },
+                  "price": "5,00 €",
+                  "description": {
+                    "lv": "3 gab.",
+                    "en": "3 pieces"
+                  }
+                },
+                {
+                  "id": "item-7",
+                  "name": {
+                    "lv": "Kartupeļu pankūkas ar bekonu",
+                    "en": "Potato pancakes with bacon"
+                  },
+                  "price": "6,50 €",
+                  "description": {
+                    "lv": "3 gab.",
+                    "en": "3 pieces"
+                  }
+                },
+                {
+                  "id": "item-8",
+                  "name": {
+                    "lv": "Ķiploku grauzdiņi + majonēze",
+                    "en": "Garlic croutons + mayonnaise"
+                  },
+                  "price": "5,00 €",
+                  "description": {
+                    "lv": "200 g",
+                    "en": "200 g"
+                  }
+                },
+                {
+                  "id": "item-9",
+                  "name": {
+                    "lv": "Mērce",
+                    "en": "Sauce"
+                  },
+                  "price": "1,50 €",
+                  "description": {
+                    "lv": "Bārbekjū, ķiploku, kečups vai majonēze",
+                    "en": "BBQ, garlic, ketchup or mayonnaise"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "slug": "xl",
+      "gallery": [
+        {
+          "id": "xl-bull",
+          "url": "/assets/xl-bull.jpg",
+          "caption": {
+            "lv": "Rodeo bullis — tikai Players Club XL",
+            "en": "Rodeo bull — only at Players Club XL"
+          }
+        },
+        {
+          "id": "6510a0a7-2a3b-4c1f-9f71-dd1cb7b1da14",
+          "url": "/assets/imported/05a58a91-64fc-43b7-ad7e-0dc9fe14562e.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "0aa932d1-7a95-4ab6-bed5-7b2ca33879d4",
+          "url": "/assets/imported/55e8ca64-8d84-4873-9aeb-feed77f30b95.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "c03f14bf-c9f6-4140-a52c-a89a61e0cf4b",
+          "url": "/assets/imported/f593d5df-0f85-48f0-bb23-32a1ec697c46.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "178847e0-84aa-4d66-a51a-39cdbb093e72",
+          "url": "/assets/imported/13d6a793-3dd1-441f-9af7-69e563342f85.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "aee50878-66c6-4225-b24b-9235e4df4eb5",
+          "url": "/assets/imported/9d429cd1-9e1a-4e73-8908-3ea6e6891dd1.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "4539bbd8-559e-4d18-a27c-4af10c870322",
+          "url": "/assets/imported/5511ec62-6e17-4d7c-a07b-2ea9f846dd0e.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "18f68e19-8146-45a3-b4b4-5ba594102700",
+          "url": "/assets/imported/bc783b75-e723-4ebb-be81-9425f89bc978.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "1304fca0-5bdc-4e1c-b71d-f5a9a5711106",
+          "url": "/assets/imported/d249af08-a056-4ce5-9924-be20114f0f26.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "ac6bcb42-505c-4635-8183-499217855fa3",
+          "url": "/assets/imported/041db9a1-af9b-45aa-be96-889788b63fb1.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "5b679de2-d54b-443b-9246-4cffc6040be2",
+          "url": "/assets/imported/0c0ba6e0-9c56-4365-ab11-98f3cd23d5e1.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "29f1c235-3cd1-4262-9ef5-3b9b84d72472",
+          "url": "/assets/imported/0dacd3e1-b7df-4d16-b2c8-63e6325952c6.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "79af792d-0ba3-45b1-9681-6a96daf7c2c2",
+          "url": "/assets/imported/ad2813d4-b5ce-4c87-9988-e47a5c26e3c9.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "a4c542c8-5464-40e7-a0a5-ec25ed8f3fff",
+          "url": "/assets/imported/fe97647c-4a3f-49f8-92c0-0ea89beb3b16.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "39ae9c2a-766c-455d-b63e-b947163e5e94",
+          "url": "/assets/imported/8bb4cb43-cd3b-4bf7-92d0-726cff70d8cf.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "e4746dd9-1556-40c4-8077-c5924c982f38",
+          "url": "/assets/imported/942c133d-2635-4c52-b52b-eba73171ef41.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "437b6b9b-fbc1-4c83-a001-bf48610e60dc",
+          "url": "/assets/imported/199a1c3e-9281-4a9f-ac30-733e0b105f75.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "3949a4eb-d86a-4d5e-ac04-1cc8a1559f62",
+          "url": "/assets/imported/bbdfa702-691f-4e54-a180-502375d9b517.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "a264f911-08a1-481a-a042-6b0c1c26da84",
+          "url": "/assets/imported/a37f879f-02da-463a-962b-b03d164e2e80.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "67d281ac-62f8-48fe-922a-951fea638b9f",
+          "url": "/assets/imported/1614023a-f37d-4995-a789-ed87c6505854.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        }
+      ],
+      "restrictions": {
+        "lv": "Ieeja no 14 gadu vecuma. Piektdienās un sestdienās pēc plkst. 18.00 ieeja tikai no 18 gadu vecuma. Lūdzu, paņem līdzi personu apliecinošu dokumentu.",
+        "en": "Entry from age 14. On Fridays and Saturdays after 18:00, entry is strictly 18+. Please bring your ID."
+      },
+      "vipEnabled": true,
+      "vipGallery": [
+        {
+          "id": "1ef29c9b-a6cb-4a03-bf98-77f18cbc367a",
+          "url": "/assets/imported/e6d64a0e-4107-4bec-9cf5-f026a28488ed.jpg",
+          "caption": {
+            "lv": "Players Club XL VIP",
+            "en": "Players Club XL VIP"
+          }
+        },
+        {
+          "id": "5b974aa2-8c0d-4162-8766-3c2e86051fc1",
+          "url": "/assets/imported/389bae05-df5d-4420-9aad-a9b2cbd81d01.jpg",
+          "caption": {
+            "lv": "Players Club XL VIP nr.2",
+            "en": "Players Club XL VIP nr.2"
+          }
+        }
+      ],
+      "vipDetails": {
+        "lv": "Mazā VIP istaba — 150 €. Lielā VIP istaba — 170 €. No katras istabas cenas 100 € izmantojami tikai dzērieniem. Ieejas biļetes nav iekļautas un jāiegādājas atsevišķi. Privātajās istabās ir dīvāni, galdi un PlayStation. Istaba jāsaskaņo un jāapmaksā pirms pasākuma dienas. sakiet, ja vēlaties sīkāku info.",
+        "en": "Small VIP room — €150. Large VIP room — €170. €100 of each room price can be spent on drinks only. Admission is not included and must be purchased separately. Private rooms have sofas, tables and PlayStation. Rooms must be arranged and prepaid before the event day. Let us know if you would like more details."
+      },
+      "name": "Players Club XL",
+      "address": "Jēkaba iela 3/5, Rīga",
+      "area": {
+        "lv": "Vecrīga",
+        "en": "Old Town"
+      },
+      "signature": {
+        "lv": "RODEO BULLIS + 20 SPĒLES",
+        "en": "RODEO BULL + 20 GAMES"
+      },
+      "description": {
+        "lv": "Lielāks laukums tavam vakaram. Rodeo bullis, biljards, arkādes un privātais bārs 3. stāvā.",
+        "en": "More room for your night. A rodeo bull, pool, arcade games and a private third-floor bar."
+      },
+      "price": "20",
+      "studentPrice": "18",
+      "image": "/assets/bull.jpg",
+      "ticketUrl": "https://shop.aula.lv/event/players-club-xl-apmekljums-44v8rf",
+      "googleUrl": "https://www.google.com/maps?cid=7740050684845942036",
+      "tripadvisorUrl": "https://www.tripadvisor.com/Attraction_Review-g274967-d33031026-Reviews-Players_Club_Xl-Riga_Riga_Region.html",
+      "mapEmbed": "https://www.google.com/maps?q=Players+Club+XL+Jekaba+3%2F5+Riga&output=embed",
+      "hours": {
+        "lv": "Pirmdiena: 17.00–23.00\nOtrdiena: 17.00–23.00\nTrešdiena: 17.00–00.00\nCeturtdiena: 17.00–00.00\nPiektdiena: 13.00–02.00\nSestdiena: 12.00–02.00\nSvētdiena: 12.00–21.00",
+        "en": "Monday: 17:00–23:00\nTuesday: 17:00–23:00\nWednesday: 17:00–00:00\nThursday: 17:00–00:00\nFriday: 13:00–02:00\nSaturday: 12:00–02:00\nSunday: 12:00–21:00"
+      },
+      "published": true,
+      "menuUrl": ""
+    },
+    {
+      "id": "barona",
+      "heroPhotoId": "barona-minigolf",
+      "ratings": {
+        "google": 4.9,
+        "tripadvisor": 4.9,
+        "checkedAt": "2026-10-20"
+      },
+      "menus": [
+        {
+          "id": "legacy-drinks",
+          "kind": "drinks",
+          "title": {
+            "lv": "Dzērienkarte Latviski",
+            "en": "Drinks menu Latvian"
+          },
+          "url": "/assets/imported/008018ba-0542-4996-a591-ad9e2ec09557.png",
+          "sections": [
+            {
+              "id": "section-0",
+              "title": {
+                "lv": "Bezalkoholiskie dzērieni",
+                "en": "Soft drinks"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Ūdens",
+                    "en": "Water"
+                  },
+                  "price": "1,00 €",
+                  "description": {
+                    "lv": "350 ml (glāze)",
+                    "en": "350 ml (glass)"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Ūdens pudelē",
+                    "en": "Bottled water"
+                  },
+                  "price": "2,50 €",
+                  "description": {
+                    "lv": "500 ml, negāzēts / gāzēts",
+                    "en": "500 ml, still / sparkling"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Pepsi / Mirinda / 7UP / Toniks",
+                    "en": "Pepsi / Mirinda / 7UP / Tonic"
+                  },
+                  "price": "3,00 / 12,00 €",
+                  "description": {
+                    "lv": "250 ml (glāze) / 1,5 l pudele",
+                    "en": "250 ml (glass) / 1.5 l bottle"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Sula",
+                    "en": "Juice"
+                  },
+                  "price": "3,00 / 10,00 €",
+                  "description": {
+                    "lv": "250 ml (glāze) / 1 l paka",
+                    "en": "250 ml (glass) / 1 l carton"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Enerģijas dzēriens",
+                    "en": "Energy drink"
+                  },
+                  "price": "3,50 €",
+                  "description": {
+                    "lv": "250 ml",
+                    "en": "250 ml"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Kafija / Tēja",
+                    "en": "Coffee / Tea"
+                  },
+                  "price": "2,50 €",
+                  "description": {
+                    "lv": "200 ml",
+                    "en": "200 ml"
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Limonāde 1,5 l",
+                    "en": "Lemonade 1.5 l"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Ķiršu, aveņu, upeņu, dzērveņu vai zemeņu",
+                    "en": "Cherry, raspberry, blackcurrant, cranberry or strawberry"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-1",
+              "title": {
+                "lv": "Bezalkoholiskie kokteiļi",
+                "en": "Alcohol-free cocktails"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Sunrise",
+                    "en": "Sunrise"
+                  },
+                  "price": "4,00 €",
+                  "description": {
+                    "lv": "Apelsīnu sula, grenadīna sīrups",
+                    "en": "Orange juice, grenadine syrup"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Safe Sex On The Beach",
+                    "en": "Safe Sex On The Beach"
+                  },
+                  "price": "4,00 €",
+                  "description": {
+                    "lv": "Apelsīnu un dzērveņu sula",
+                    "en": "Orange and cranberry juice"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Not So Blue Lagoon",
+                    "en": "Not So Blue Lagoon"
+                  },
+                  "price": "6,00 €",
+                  "description": {
+                    "lv": "Zilais curaçao sīrups, laima sula un 7UP",
+                    "en": "Blue curaçao syrup, lime juice and 7UP"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Sinless Spritz",
+                    "en": "Sinless Spritz"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Spritz sīrups, gāzēts ūdens un 7UP",
+                    "en": "Spritz syrup, sparkling water and 7UP"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Nojito",
+                    "en": "Nojito"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "Mojito sīrups, brūnais cukurs, piparmētra, laims, 7UP un gāzēts ūdens",
+                    "en": "Mojito syrup, brown sugar, mint, lime, 7UP and sparkling water"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-2",
+              "title": {
+                "lv": "Kokteiļi",
+                "en": "Cocktails"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Rums / Viskijs ar Pepsi",
+                    "en": "Rum / Whisky with Pepsi"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Tumšais rums vai viskijs ar Pepsi",
+                    "en": "Dark rum or whisky with Pepsi"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Džins ar toniku",
+                    "en": "Gin and tonic"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Džins ar toniku",
+                    "en": "Gin with tonic"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Skrūve",
+                    "en": "Screwdriver"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Vodka ar sulu",
+                    "en": "Vodka with juice"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Cuba Libre",
+                    "en": "Cuba Libre"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Gaišais rums, Pepsi un laima sula",
+                    "en": "White rum, Pepsi and lime juice"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Skinny Bitch",
+                    "en": "Skinny Bitch"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Vodka, gāzēts ūdens un laima sula",
+                    "en": "Vodka, sparkling water and lime juice"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Tequila Sunrise",
+                    "en": "Tequila Sunrise"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "Tekila, apelsīnu sula un grenadīna sīrups",
+                    "en": "Tequila, orange juice and grenadine syrup"
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Blue Lagoon",
+                    "en": "Blue Lagoon"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "Vodka, zilais curaçao sīrups, laima sula un 7UP",
+                    "en": "Vodka, blue curaçao syrup, lime juice and 7UP"
+                  }
+                },
+                {
+                  "id": "item-7",
+                  "name": {
+                    "lv": "Sex On The Beach",
+                    "en": "Sex On The Beach"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Vodka, džins, dzērveņu un apelsīnu sula",
+                    "en": "Vodka, gin, cranberry and orange juice"
+                  }
+                },
+                {
+                  "id": "item-8",
+                  "name": {
+                    "lv": "Moscow Mule",
+                    "en": "Moscow Mule"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Vodka, ingvera alus un laima sula",
+                    "en": "Vodka, ginger beer and lime juice"
+                  }
+                },
+                {
+                  "id": "item-9",
+                  "name": {
+                    "lv": "Vodka / Jäger Energy",
+                    "en": "Vodka / Jäger Energy"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Vodka vai Jägermeister ar enerģijas dzērienu",
+                    "en": "Vodka or Jägermeister with an energy drink"
+                  }
+                },
+                {
+                  "id": "item-10",
+                  "name": {
+                    "lv": "Aperitivo Spritz",
+                    "en": "Aperitivo Spritz"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Prosecco, Luxardo Aperitivo un gāzēts ūdens",
+                    "en": "Prosecco, Luxardo Aperitivo and sparkling water"
+                  }
+                },
+                {
+                  "id": "item-11",
+                  "name": {
+                    "lv": "Passion Sour",
+                    "en": "Passion Sour"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Vaniļas rums, laima sula, marakujas sīrups un Easy Foam putas",
+                    "en": "Vanilla rum, lime juice, passion fruit syrup and Easy Foam"
+                  }
+                },
+                {
+                  "id": "item-12",
+                  "name": {
+                    "lv": "Whiskey Sour",
+                    "en": "Whiskey Sour"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Viskijs, laima sula, cukura sīrups un Easy Foam putas",
+                    "en": "Whisky, lime juice, sugar syrup and Easy Foam"
+                  }
+                },
+                {
+                  "id": "item-13",
+                  "name": {
+                    "lv": "Cosmopolitan",
+                    "en": "Cosmopolitan"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Vodka, apelsīnu liķieris, dzērveņu un laima sula",
+                    "en": "Vodka, orange liqueur, cranberry and lime juice"
+                  }
+                },
+                {
+                  "id": "item-14",
+                  "name": {
+                    "lv": "Klasiskais Mojito",
+                    "en": "Classic Mojito"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Baltais rums, laims, 7UP, brūnais cukurs, piparmētra un gāzēts ūdens",
+                    "en": "White rum, lime, 7UP, brown sugar, mint and sparkling water"
+                  }
+                },
+                {
+                  "id": "item-15",
+                  "name": {
+                    "lv": "Long Island Iced Tea",
+                    "en": "Long Island Iced Tea"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Vodka, baltais rums, tekila, džins, apelsīnu liķieris, laima sula un Pepsi",
+                    "en": "Vodka, white rum, tequila, gin, orange liqueur, lime juice and Pepsi"
+                  }
+                },
+                {
+                  "id": "item-16",
+                  "name": {
+                    "lv": "Pornstar Martini",
+                    "en": "Pornstar Martini"
+                  },
+                  "price": "15,00 €",
+                  "description": {
+                    "lv": "Vodka, vaniļas sīrups, marakujas liķieris un biezenis, laima sula, cukura sīrups, ananāsu sula un Prosecco šots",
+                    "en": "Vodka, vanilla syrup, passion fruit liqueur and purée, lime juice, sugar syrup, pineapple juice and a Prosecco shot"
+                  }
+                },
+                {
+                  "id": "item-17",
+                  "name": {
+                    "lv": "Bārmeņa Special",
+                    "en": "Bartender’s Special"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Katram bārmenim savs īpašais kokteilis",
+                    "en": "Each bartender has their own special cocktail"
+                  }
+                },
+                {
+                  "id": "item-18",
+                  "name": {
+                    "lv": "Long Island Delux",
+                    "en": "Long Island Delux"
+                  },
+                  "price": "20,00 €",
+                  "description": {
+                    "lv": "Grey Goose vodka, Bumbu rums, Don Julio tekila, Hedonist džins, Cointreau liķieris, laima sula un Pepsi",
+                    "en": "Grey Goose vodka, Bumbu rum, Don Julio tequila, Hedonist gin, Cointreau, lime juice and Pepsi"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-3",
+              "title": {
+                "lv": "Players Club Originals",
+                "en": "Players Club Originals"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Vanilla Beach",
+                    "en": "Vanilla Beach"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Vaniļas rums, svaigs laims, apelsīnu sula un 7UP",
+                    "en": "Vanilla rum, fresh lime, orange juice and 7UP"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Sweet Trouble",
+                    "en": "Sweet Trouble"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Vodka, zemeņu liķieris un sīrups, laima sula, cukura sīrups un 7UP",
+                    "en": "Vodka, strawberry liqueur and syrup, lime juice, sugar syrup and 7UP"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Kikiberry",
+                    "en": "Kikiberry"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Tekila, apelsīnu liķieris, dzērveņu sula, laima sula, dzērveņu sīrups",
+                    "en": "Tequila, orange liqueur, cranberry juice, lime juice and cranberry syrup"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Summer Sunset",
+                    "en": "Summer Sunset"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Gaišais rums, Luxardo Aperitivo, Prosecco, citronu sula, cukura sīrups, Mojito sīrups un gāzēts ūdens",
+                    "en": "White rum, Luxardo Aperitivo, Prosecco, lemon juice, sugar syrup, Mojito syrup and sparkling water"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Passionate Dreams",
+                    "en": "Passionate Dreams"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Baileys, vodka, marakujas sīrups un ananāsu sula",
+                    "en": "Baileys, vodka, passion fruit syrup and pineapple juice"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-4",
+              "title": {
+                "lv": "Alus",
+                "en": "Beer"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Bauskas",
+                    "en": "Bauskas"
+                  },
+                  "price": "4,00 / 5,00 €",
+                  "description": {
+                    "lv": "300 / 500 ml, izlejamais",
+                    "en": "300 / 500 ml, draught"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Madonas nefiltrētais",
+                    "en": "Madonas unfiltered"
+                  },
+                  "price": "4,50 / 5,50 €",
+                  "description": {
+                    "lv": "300 / 500 ml, izlejamais",
+                    "en": "300 / 500 ml, draught"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Alus / Sidrs pudelē",
+                    "en": "Bottled beer / cider"
+                  },
+                  "price": "4,50 €",
+                  "description": {
+                    "lv": "250–500 ml",
+                    "en": "250–500 ml"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Corona",
+                    "en": "Corona"
+                  },
+                  "price": "5,00 €",
+                  "description": {
+                    "lv": "350 ml",
+                    "en": "350 ml"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Salitos",
+                    "en": "Salitos"
+                  },
+                  "price": "4,50 €",
+                  "description": {
+                    "lv": "330 ml",
+                    "en": "330 ml"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-5",
+              "title": {
+                "lv": "Vīns",
+                "en": "Wine"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Prosecco",
+                    "en": "Prosecco"
+                  },
+                  "price": "6,00 / 30,00 €",
+                  "description": {
+                    "lv": "125 / 750 ml",
+                    "en": "125 / 750 ml"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Colpasso Pinot Grigio",
+                    "en": "Colpasso Pinot Grigio"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "250 ml, balts, sauss",
+                    "en": "250 ml, dry white"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Colpasso Rosso",
+                    "en": "Colpasso Rosso"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "250 ml, sarkans, sauss",
+                    "en": "250 ml, dry red"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Kendermanns Riesling",
+                    "en": "Kendermanns Riesling"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "187 ml, pussalds",
+                    "en": "187 ml, medium sweet"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "BOSIO Asti Dolce",
+                    "en": "BOSIO Asti Dolce"
+                  },
+                  "price": "7,00 / 35,00 €",
+                  "description": {
+                    "lv": "125 ml / pudele, dzirkstošais vīns, salds",
+                    "en": "125 ml / bottle, sweet sparkling wine"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-6",
+              "title": {
+                "lv": "Šoti · 1 / 10",
+                "en": "Shots · 1 / 10"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Vodka / Rums / Viskijs",
+                    "en": "Vodka / Rum / Whisky"
+                  },
+                  "price": "4,00 / 35,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Džins / Tekila",
+                    "en": "Gin / Tequila"
+                  },
+                  "price": "4,00 / 35,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Pirātu dārgums",
+                    "en": "Pirate’s Treasure"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Zilā acs",
+                    "en": "Blue Eye"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Woo Woo",
+                    "en": "Woo Woo"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Bubble Gum",
+                    "en": "Bubble Gum"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Absinta Šreks",
+                    "en": "Absinthe Shrek"
+                  },
+                  "price": "6,00 / 50,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-7",
+                  "name": {
+                    "lv": "B52",
+                    "en": "B52"
+                  },
+                  "price": "6,00 / 50,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-8",
+                  "name": {
+                    "lv": "Jack Daniel’s / Fireball",
+                    "en": "Jack Daniel’s / Fireball"
+                  },
+                  "price": "5,00 / 45,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-9",
+                  "name": {
+                    "lv": "Baileys / Jägermeister",
+                    "en": "Baileys / Jägermeister"
+                  },
+                  "price": "5,00 / 45,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-10",
+                  "name": {
+                    "lv": "Rīgas balzāms / Moka",
+                    "en": "Riga Black Balsam / Moka"
+                  },
+                  "price": "5,00 / 45,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-11",
+                  "name": {
+                    "lv": "Grey Goose",
+                    "en": "Grey Goose"
+                  },
+                  "price": "8,00 / 70,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-12",
+                  "name": {
+                    "lv": "Black Label / Chivas Regal",
+                    "en": "Black Label / Chivas Regal"
+                  },
+                  "price": "7,00 / 60,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-13",
+                  "name": {
+                    "lv": "Hennessy",
+                    "en": "Hennessy"
+                  },
+                  "price": "8,00 / 70,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-14",
+                  "name": {
+                    "lv": "Bumbu rums",
+                    "en": "Bumbu rum"
+                  },
+                  "price": "7,00 / 60,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-15",
+                  "name": {
+                    "lv": "Don Julio Blanco",
+                    "en": "Don Julio Blanco"
+                  },
+                  "price": "11,00 / 100,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-7",
+              "title": {
+                "lv": "Pudeles",
+                "en": "Bottles"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Vodka / Viskijs / Džins",
+                    "en": "Vodka / Whisky / Gin"
+                  },
+                  "price": "90,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Rums / Tekila",
+                    "en": "Rum / Tequila"
+                  },
+                  "price": "60,00 €",
+                  "description": {
+                    "lv": "0,7 l",
+                    "en": "0.7 l"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Jack Daniel’s / Fireball",
+                    "en": "Jack Daniel’s / Fireball"
+                  },
+                  "price": "110,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Baileys / Jägermeister",
+                    "en": "Baileys / Jägermeister"
+                  },
+                  "price": "110,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Rīgas balzāms",
+                    "en": "Riga Black Balsam"
+                  },
+                  "price": "90,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Grey Goose",
+                    "en": "Grey Goose"
+                  },
+                  "price": "180,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Black Label",
+                    "en": "Black Label"
+                  },
+                  "price": "140,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-7",
+                  "name": {
+                    "lv": "Hennessy",
+                    "en": "Hennessy"
+                  },
+                  "price": "160,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-8",
+                  "name": {
+                    "lv": "Bumbu rums",
+                    "en": "Bumbu rum"
+                  },
+                  "price": "110,00 €",
+                  "description": {
+                    "lv": "0,7 l",
+                    "en": "0.7 l"
+                  }
+                },
+                {
+                  "id": "item-9",
+                  "name": {
+                    "lv": "Don Julio Blanco",
+                    "en": "Don Julio Blanco"
+                  },
+                  "price": "180,00 €",
+                  "description": {
+                    "lv": "0,7 l",
+                    "en": "0.7 l"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "e116ce5d-3d9a-44df-9c4c-d32afbfbb597",
+          "kind": "drinks",
+          "title": {
+            "lv": "Dzērienkarte Angliski",
+            "en": "Drinks menu English"
+          },
+          "url": "/assets/imported/12ae97bf-91d7-4c06-99c6-fee96d02d34f.png",
+          "sections": [
+            {
+              "id": "section-0",
+              "title": {
+                "lv": "Bezalkoholiskie dzērieni",
+                "en": "Soft drinks"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Ūdens",
+                    "en": "Water"
+                  },
+                  "price": "1,00 €",
+                  "description": {
+                    "lv": "350 ml (glāze)",
+                    "en": "350 ml (glass)"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Ūdens pudelē",
+                    "en": "Bottled water"
+                  },
+                  "price": "2,50 €",
+                  "description": {
+                    "lv": "500 ml, negāzēts / gāzēts",
+                    "en": "500 ml, still / sparkling"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Pepsi / Mirinda / 7UP / Toniks",
+                    "en": "Pepsi / Mirinda / 7UP / Tonic"
+                  },
+                  "price": "3,00 / 12,00 €",
+                  "description": {
+                    "lv": "250 ml (glāze) / 1,5 l pudele",
+                    "en": "250 ml (glass) / 1.5 l bottle"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Sula",
+                    "en": "Juice"
+                  },
+                  "price": "3,00 / 10,00 €",
+                  "description": {
+                    "lv": "250 ml (glāze) / 1 l paka",
+                    "en": "250 ml (glass) / 1 l carton"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Enerģijas dzēriens",
+                    "en": "Energy drink"
+                  },
+                  "price": "3,50 €",
+                  "description": {
+                    "lv": "250 ml",
+                    "en": "250 ml"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Kafija / Tēja",
+                    "en": "Coffee / Tea"
+                  },
+                  "price": "2,50 €",
+                  "description": {
+                    "lv": "200 ml",
+                    "en": "200 ml"
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Limonāde 1,5 l",
+                    "en": "Lemonade 1.5 l"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Ķiršu, aveņu, upeņu, dzērveņu vai zemeņu",
+                    "en": "Cherry, raspberry, blackcurrant, cranberry or strawberry"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-1",
+              "title": {
+                "lv": "Bezalkoholiskie kokteiļi",
+                "en": "Alcohol-free cocktails"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Sunrise",
+                    "en": "Sunrise"
+                  },
+                  "price": "4,00 €",
+                  "description": {
+                    "lv": "Apelsīnu sula, grenadīna sīrups",
+                    "en": "Orange juice, grenadine syrup"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Safe Sex On The Beach",
+                    "en": "Safe Sex On The Beach"
+                  },
+                  "price": "4,00 €",
+                  "description": {
+                    "lv": "Apelsīnu un dzērveņu sula",
+                    "en": "Orange and cranberry juice"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Not So Blue Lagoon",
+                    "en": "Not So Blue Lagoon"
+                  },
+                  "price": "6,00 €",
+                  "description": {
+                    "lv": "Zilais curaçao sīrups, laima sula un 7UP",
+                    "en": "Blue curaçao syrup, lime juice and 7UP"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Sinless Spritz",
+                    "en": "Sinless Spritz"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Spritz sīrups, gāzēts ūdens un 7UP",
+                    "en": "Spritz syrup, sparkling water and 7UP"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Nojito",
+                    "en": "Nojito"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "Mojito sīrups, brūnais cukurs, piparmētra, laims, 7UP un gāzēts ūdens",
+                    "en": "Mojito syrup, brown sugar, mint, lime, 7UP and sparkling water"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-2",
+              "title": {
+                "lv": "Kokteiļi",
+                "en": "Cocktails"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Rums / Viskijs ar Pepsi",
+                    "en": "Rum / Whisky with Pepsi"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Tumšais rums vai viskijs ar Pepsi",
+                    "en": "Dark rum or whisky with Pepsi"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Džins ar toniku",
+                    "en": "Gin and tonic"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Džins ar toniku",
+                    "en": "Gin with tonic"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Skrūve",
+                    "en": "Screwdriver"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Vodka ar sulu",
+                    "en": "Vodka with juice"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Cuba Libre",
+                    "en": "Cuba Libre"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Gaišais rums, Pepsi un laima sula",
+                    "en": "White rum, Pepsi and lime juice"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Skinny Bitch",
+                    "en": "Skinny Bitch"
+                  },
+                  "price": "7,00 €",
+                  "description": {
+                    "lv": "Vodka, gāzēts ūdens un laima sula",
+                    "en": "Vodka, sparkling water and lime juice"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Tequila Sunrise",
+                    "en": "Tequila Sunrise"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "Tekila, apelsīnu sula un grenadīna sīrups",
+                    "en": "Tequila, orange juice and grenadine syrup"
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Blue Lagoon",
+                    "en": "Blue Lagoon"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "Vodka, zilais curaçao sīrups, laima sula un 7UP",
+                    "en": "Vodka, blue curaçao syrup, lime juice and 7UP"
+                  }
+                },
+                {
+                  "id": "item-7",
+                  "name": {
+                    "lv": "Sex On The Beach",
+                    "en": "Sex On The Beach"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Vodka, džins, dzērveņu un apelsīnu sula",
+                    "en": "Vodka, gin, cranberry and orange juice"
+                  }
+                },
+                {
+                  "id": "item-8",
+                  "name": {
+                    "lv": "Moscow Mule",
+                    "en": "Moscow Mule"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Vodka, ingvera alus un laima sula",
+                    "en": "Vodka, ginger beer and lime juice"
+                  }
+                },
+                {
+                  "id": "item-9",
+                  "name": {
+                    "lv": "Vodka / Jäger Energy",
+                    "en": "Vodka / Jäger Energy"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Vodka vai Jägermeister ar enerģijas dzērienu",
+                    "en": "Vodka or Jägermeister with an energy drink"
+                  }
+                },
+                {
+                  "id": "item-10",
+                  "name": {
+                    "lv": "Aperitivo Spritz",
+                    "en": "Aperitivo Spritz"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Prosecco, Luxardo Aperitivo un gāzēts ūdens",
+                    "en": "Prosecco, Luxardo Aperitivo and sparkling water"
+                  }
+                },
+                {
+                  "id": "item-11",
+                  "name": {
+                    "lv": "Passion Sour",
+                    "en": "Passion Sour"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Vaniļas rums, laima sula, marakujas sīrups un Easy Foam putas",
+                    "en": "Vanilla rum, lime juice, passion fruit syrup and Easy Foam"
+                  }
+                },
+                {
+                  "id": "item-12",
+                  "name": {
+                    "lv": "Whiskey Sour",
+                    "en": "Whiskey Sour"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Viskijs, laima sula, cukura sīrups un Easy Foam putas",
+                    "en": "Whisky, lime juice, sugar syrup and Easy Foam"
+                  }
+                },
+                {
+                  "id": "item-13",
+                  "name": {
+                    "lv": "Cosmopolitan",
+                    "en": "Cosmopolitan"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Vodka, apelsīnu liķieris, dzērveņu un laima sula",
+                    "en": "Vodka, orange liqueur, cranberry and lime juice"
+                  }
+                },
+                {
+                  "id": "item-14",
+                  "name": {
+                    "lv": "Klasiskais Mojito",
+                    "en": "Classic Mojito"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Baltais rums, laims, 7UP, brūnais cukurs, piparmētra un gāzēts ūdens",
+                    "en": "White rum, lime, 7UP, brown sugar, mint and sparkling water"
+                  }
+                },
+                {
+                  "id": "item-15",
+                  "name": {
+                    "lv": "Long Island Iced Tea",
+                    "en": "Long Island Iced Tea"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Vodka, baltais rums, tekila, džins, apelsīnu liķieris, laima sula un Pepsi",
+                    "en": "Vodka, white rum, tequila, gin, orange liqueur, lime juice and Pepsi"
+                  }
+                },
+                {
+                  "id": "item-16",
+                  "name": {
+                    "lv": "Pornstar Martini",
+                    "en": "Pornstar Martini"
+                  },
+                  "price": "15,00 €",
+                  "description": {
+                    "lv": "Vodka, vaniļas sīrups, marakujas liķieris un biezenis, laima sula, cukura sīrups, ananāsu sula un Prosecco šots",
+                    "en": "Vodka, vanilla syrup, passion fruit liqueur and purée, lime juice, sugar syrup, pineapple juice and a Prosecco shot"
+                  }
+                },
+                {
+                  "id": "item-17",
+                  "name": {
+                    "lv": "Bārmeņa Special",
+                    "en": "Bartender’s Special"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Katram bārmenim savs īpašais kokteilis",
+                    "en": "Each bartender has their own special cocktail"
+                  }
+                },
+                {
+                  "id": "item-18",
+                  "name": {
+                    "lv": "Long Island Delux",
+                    "en": "Long Island Delux"
+                  },
+                  "price": "20,00 €",
+                  "description": {
+                    "lv": "Grey Goose vodka, Bumbu rums, Don Julio tekila, Hedonist džins, Cointreau liķieris, laima sula un Pepsi",
+                    "en": "Grey Goose vodka, Bumbu rum, Don Julio tequila, Hedonist gin, Cointreau, lime juice and Pepsi"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-3",
+              "title": {
+                "lv": "Players Club Originals",
+                "en": "Players Club Originals"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Vanilla Beach",
+                    "en": "Vanilla Beach"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Vaniļas rums, svaigs laims, apelsīnu sula un 7UP",
+                    "en": "Vanilla rum, fresh lime, orange juice and 7UP"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Sweet Trouble",
+                    "en": "Sweet Trouble"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Vodka, zemeņu liķieris un sīrups, laima sula, cukura sīrups un 7UP",
+                    "en": "Vodka, strawberry liqueur and syrup, lime juice, sugar syrup and 7UP"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Kikiberry",
+                    "en": "Kikiberry"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Tekila, apelsīnu liķieris, dzērveņu sula, laima sula, dzērveņu sīrups",
+                    "en": "Tequila, orange liqueur, cranberry juice, lime juice and cranberry syrup"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Summer Sunset",
+                    "en": "Summer Sunset"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Gaišais rums, Luxardo Aperitivo, Prosecco, citronu sula, cukura sīrups, Mojito sīrups un gāzēts ūdens",
+                    "en": "White rum, Luxardo Aperitivo, Prosecco, lemon juice, sugar syrup, Mojito syrup and sparkling water"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Passionate Dreams",
+                    "en": "Passionate Dreams"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Baileys, vodka, marakujas sīrups un ananāsu sula",
+                    "en": "Baileys, vodka, passion fruit syrup and pineapple juice"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-4",
+              "title": {
+                "lv": "Alus",
+                "en": "Beer"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Bauskas",
+                    "en": "Bauskas"
+                  },
+                  "price": "4,00 / 5,00 €",
+                  "description": {
+                    "lv": "300 / 500 ml, izlejamais",
+                    "en": "300 / 500 ml, draught"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Madonas nefiltrētais",
+                    "en": "Madonas unfiltered"
+                  },
+                  "price": "4,50 / 5,50 €",
+                  "description": {
+                    "lv": "300 / 500 ml, izlejamais",
+                    "en": "300 / 500 ml, draught"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Alus / Sidrs pudelē",
+                    "en": "Bottled beer / cider"
+                  },
+                  "price": "4,50 €",
+                  "description": {
+                    "lv": "250–500 ml",
+                    "en": "250–500 ml"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Corona",
+                    "en": "Corona"
+                  },
+                  "price": "5,00 €",
+                  "description": {
+                    "lv": "350 ml",
+                    "en": "350 ml"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Salitos",
+                    "en": "Salitos"
+                  },
+                  "price": "4,50 €",
+                  "description": {
+                    "lv": "330 ml",
+                    "en": "330 ml"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-5",
+              "title": {
+                "lv": "Vīns",
+                "en": "Wine"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Prosecco",
+                    "en": "Prosecco"
+                  },
+                  "price": "6,00 / 30,00 €",
+                  "description": {
+                    "lv": "125 / 750 ml",
+                    "en": "125 / 750 ml"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Colpasso Pinot Grigio",
+                    "en": "Colpasso Pinot Grigio"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "250 ml, balts, sauss",
+                    "en": "250 ml, dry white"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Colpasso Rosso",
+                    "en": "Colpasso Rosso"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "250 ml, sarkans, sauss",
+                    "en": "250 ml, dry red"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Kendermanns Riesling",
+                    "en": "Kendermanns Riesling"
+                  },
+                  "price": "8,00 €",
+                  "description": {
+                    "lv": "187 ml, pussalds",
+                    "en": "187 ml, medium sweet"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "BOSIO Asti Dolce",
+                    "en": "BOSIO Asti Dolce"
+                  },
+                  "price": "7,00 / 35,00 €",
+                  "description": {
+                    "lv": "125 ml / pudele, dzirkstošais vīns, salds",
+                    "en": "125 ml / bottle, sweet sparkling wine"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-6",
+              "title": {
+                "lv": "Šoti · 1 / 10",
+                "en": "Shots · 1 / 10"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Vodka / Rums / Viskijs",
+                    "en": "Vodka / Rum / Whisky"
+                  },
+                  "price": "4,00 / 35,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Džins / Tekila",
+                    "en": "Gin / Tequila"
+                  },
+                  "price": "4,00 / 35,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Pirātu dārgums",
+                    "en": "Pirate’s Treasure"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Zilā acs",
+                    "en": "Blue Eye"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Woo Woo",
+                    "en": "Woo Woo"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Bubble Gum",
+                    "en": "Bubble Gum"
+                  },
+                  "price": "4,50 / 40,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Absinta Šreks",
+                    "en": "Absinthe Shrek"
+                  },
+                  "price": "6,00 / 50,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-7",
+                  "name": {
+                    "lv": "B52",
+                    "en": "B52"
+                  },
+                  "price": "6,00 / 50,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-8",
+                  "name": {
+                    "lv": "Jack Daniel’s / Fireball",
+                    "en": "Jack Daniel’s / Fireball"
+                  },
+                  "price": "5,00 / 45,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-9",
+                  "name": {
+                    "lv": "Baileys / Jägermeister",
+                    "en": "Baileys / Jägermeister"
+                  },
+                  "price": "5,00 / 45,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-10",
+                  "name": {
+                    "lv": "Rīgas balzāms / Moka",
+                    "en": "Riga Black Balsam / Moka"
+                  },
+                  "price": "5,00 / 45,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-11",
+                  "name": {
+                    "lv": "Grey Goose",
+                    "en": "Grey Goose"
+                  },
+                  "price": "8,00 / 70,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-12",
+                  "name": {
+                    "lv": "Black Label / Chivas Regal",
+                    "en": "Black Label / Chivas Regal"
+                  },
+                  "price": "7,00 / 60,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-13",
+                  "name": {
+                    "lv": "Hennessy",
+                    "en": "Hennessy"
+                  },
+                  "price": "8,00 / 70,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-14",
+                  "name": {
+                    "lv": "Bumbu rums",
+                    "en": "Bumbu rum"
+                  },
+                  "price": "7,00 / 60,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                },
+                {
+                  "id": "item-15",
+                  "name": {
+                    "lv": "Don Julio Blanco",
+                    "en": "Don Julio Blanco"
+                  },
+                  "price": "11,00 / 100,00 €",
+                  "description": {
+                    "lv": "",
+                    "en": ""
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-7",
+              "title": {
+                "lv": "Pudeles",
+                "en": "Bottles"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Vodka / Viskijs / Džins",
+                    "en": "Vodka / Whisky / Gin"
+                  },
+                  "price": "90,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Rums / Tekila",
+                    "en": "Rum / Tequila"
+                  },
+                  "price": "60,00 €",
+                  "description": {
+                    "lv": "0,7 l",
+                    "en": "0.7 l"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Jack Daniel’s / Fireball",
+                    "en": "Jack Daniel’s / Fireball"
+                  },
+                  "price": "110,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Baileys / Jägermeister",
+                    "en": "Baileys / Jägermeister"
+                  },
+                  "price": "110,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Rīgas balzāms",
+                    "en": "Riga Black Balsam"
+                  },
+                  "price": "90,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Grey Goose",
+                    "en": "Grey Goose"
+                  },
+                  "price": "180,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-6",
+                  "name": {
+                    "lv": "Black Label",
+                    "en": "Black Label"
+                  },
+                  "price": "140,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-7",
+                  "name": {
+                    "lv": "Hennessy",
+                    "en": "Hennessy"
+                  },
+                  "price": "160,00 €",
+                  "description": {
+                    "lv": "1 l",
+                    "en": "1 l"
+                  }
+                },
+                {
+                  "id": "item-8",
+                  "name": {
+                    "lv": "Bumbu rums",
+                    "en": "Bumbu rum"
+                  },
+                  "price": "110,00 €",
+                  "description": {
+                    "lv": "0,7 l",
+                    "en": "0.7 l"
+                  }
+                },
+                {
+                  "id": "item-9",
+                  "name": {
+                    "lv": "Don Julio Blanco",
+                    "en": "Don Julio Blanco"
+                  },
+                  "price": "180,00 €",
+                  "description": {
+                    "lv": "0,7 l",
+                    "en": "0.7 l"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "legacy-food",
+          "kind": "food",
+          "title": {
+            "lv": "Ēdienkarte",
+            "en": "Food menu"
+          },
+          "url": "/assets/menu-barona.jpg",
+          "sections": [
+            {
+              "id": "section-0",
+              "title": {
+                "lv": "Neapolitāņu picas · 30 cm",
+                "en": "Neapolitan pizzas · 30 cm"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Margarita",
+                    "en": "Margarita"
+                  },
+                  "price": "9,00 €",
+                  "description": {
+                    "lv": "Marinara mērce, mocarella, baziliks, olīveļļa",
+                    "en": "Marinara sauce, mozzarella, basil, olive oil"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Diavola",
+                    "en": "Diavola"
+                  },
+                  "price": "13,00 €",
+                  "description": {
+                    "lv": "Marinara mērce, mocarella, čorizo, čilli, čilli eļļa, baziliks",
+                    "en": "Marinara sauce, mozzarella, chorizo, chilli, chilli oil, basil"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Salami",
+                    "en": "Salami"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Marinara mērce, mocarella, salami Milano, baziliks",
+                    "en": "Marinara sauce, mozzarella, Milano salami, basil"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Prosciutto Funghi",
+                    "en": "Prosciutto Funghi"
+                  },
+                  "price": "12,00 €",
+                  "description": {
+                    "lv": "Marinara mērce, mocarella, prosciutto cotto, sēnes, parmezāns, baziliks",
+                    "en": "Marinara sauce, mozzarella, cooked ham, mushrooms, Parmesan, basil"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Basilico Prosciutto",
+                    "en": "Basilico Prosciutto"
+                  },
+                  "price": "14,00 €",
+                  "description": {
+                    "lv": "Marinara mērce, mocarella, prosciutto cotto, ķiršu tomāti, pesto, parmezāns, baziliks",
+                    "en": "Marinara sauce, mozzarella, cooked ham, cherry tomatoes, pesto, Parmesan, basil"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Tartufata",
+                    "en": "Tartufata"
+                  },
+                  "price": "10,00 €",
+                  "description": {
+                    "lv": "Marinara mērce, mocarella, sēnes, trifeļu eļļa, parmezāns, baziliks",
+                    "en": "Marinara sauce, mozzarella, mushrooms, truffle oil, Parmesan, basil"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "section-1",
+              "title": {
+                "lv": "Uzkodas",
+                "en": "Snacks"
+              },
+              "items": [
+                {
+                  "id": "item-0",
+                  "name": {
+                    "lv": "Frī",
+                    "en": "Fries"
+                  },
+                  "price": "4,00 €",
+                  "description": {
+                    "lv": "Ar kečupu",
+                    "en": "With ketchup"
+                  }
+                },
+                {
+                  "id": "item-1",
+                  "name": {
+                    "lv": "Saldie frī",
+                    "en": "Sweet potato fries"
+                  },
+                  "price": "6,00 €",
+                  "description": {
+                    "lv": "Ar ķiploku mērci",
+                    "en": "With garlic sauce"
+                  }
+                },
+                {
+                  "id": "item-2",
+                  "name": {
+                    "lv": "Ķiploku grauzdiņi",
+                    "en": "Garlic croutons"
+                  },
+                  "price": "4,00 €",
+                  "description": {
+                    "lv": "Ar ķiploku mērci",
+                    "en": "With garlic sauce"
+                  }
+                },
+                {
+                  "id": "item-3",
+                  "name": {
+                    "lv": "Sīpolu gredzeni",
+                    "en": "Onion rings"
+                  },
+                  "price": "4,00 €",
+                  "description": {
+                    "lv": "10 gab., ar majonēzi",
+                    "en": "10 pieces, with mayonnaise"
+                  }
+                },
+                {
+                  "id": "item-4",
+                  "name": {
+                    "lv": "Springroll",
+                    "en": "Spring rolls"
+                  },
+                  "price": "4,50 €",
+                  "description": {
+                    "lv": "10 gab., ar ķiploku mērci",
+                    "en": "10 pieces, with garlic sauce"
+                  }
+                },
+                {
+                  "id": "item-5",
+                  "name": {
+                    "lv": "Papildus mērce",
+                    "en": "Extra sauce"
+                  },
+                  "price": "0,80 €",
+                  "description": {
+                    "lv": "Ķiploku, kečups, majonēze, BBQ",
+                    "en": "Garlic, ketchup, mayonnaise, BBQ"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "slug": "barona",
+      "gallery": [
+        {
+          "id": "barona-minigolf",
+          "url": "/assets/barona-minigolf.jpg",
+          "caption": {
+            "lv": "Neona minigolfs Barona ielā",
+            "en": "Neon mini golf at Barona Street"
+          }
+        },
+        {
+          "id": "9d164243-0327-42f4-a27d-d1b52dc24e2f",
+          "url": "/assets/imported/0439c498-72e2-4c18-96a3-27293dc3b569.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "447c3155-0871-4085-9e80-2830c5a75ca3",
+          "url": "/assets/imported/47597ea4-8337-46fb-add6-22aee960442d.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "a41a2d80-c8f6-4ebb-9a34-e4b759fa8565",
+          "url": "/assets/imported/7eece1f8-fabe-4622-ad38-63d6bee34523.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "6c7f0f3f-bd3b-4b01-8e8b-55372176cc0a",
+          "url": "/assets/imported/c04d9658-cec8-4f32-b9eb-33b711f9854e.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "b4344a91-8098-4ba5-ba3b-205abbc06d92",
+          "url": "/assets/imported/3a1fa6a8-90f7-44d6-9337-335605199de9.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "5950cdb5-c0d0-40ed-af3c-30f105e52666",
+          "url": "/assets/imported/d457e815-47d1-4988-9fa6-30610e847a1c.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "15676edb-4f93-40fb-a87b-b09f9e19b9fd",
+          "url": "/assets/imported/8e59a768-e2b5-4ff8-8aea-1a036d2c4c47.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        },
+        {
+          "id": "163abf45-7af1-4266-b35f-f33be4e4cb70",
+          "url": "/assets/imported/c6bfd61d-056d-4ce2-a780-5411aa04946b.jpg",
+          "caption": {
+            "lv": "",
+            "en": ""
+          }
+        }
+      ],
+      "restrictions": {
+        "lv": "Ieeja no 14 gadu vecuma. Piektdienās un sestdienās pēc plkst. 18.00 ieeja tikai no 18 gadu vecuma. Lūdzu, paņem līdzi personu apliecinošu dokumentu.",
+        "en": "Entry from age 14. On Fridays and Saturdays after 18:00, entry is strictly 18+. Please bring your ID."
+      },
+      "vipEnabled": false,
+      "vipDetails": {
+        "lv": "",
+        "en": ""
+      },
+      "name": "Players Club Barons",
+      "address": "Krišjāņa Barona iela 31, Rīga",
+      "area": {
+        "lv": "Centrs",
+        "en": "Center "
+      },
+      "signature": {
+        "lv": "NEONA MINIGOLFS + 15 SPĒLES",
+        "en": "NEON MINI GOLF + 15 GAMES"
+      },
+      "description": {
+        "lv": "Kompaktāks klubs ar savu raksturu. Neona minigolfs, spēles un bārs pašā Rīgas centrā.",
+        "en": "A smaller club with a character of its own. Neon mini golf, games and a bar in central Riga."
+      },
+      "price": "15",
+      "studentPrice": "13",
+      "image": "/assets/golf.jpg",
+      "ticketUrl": "https://shop.aula.lv/event/players-club-apmekljums-qjupmv",
+      "googleUrl": "https://www.google.com/maps?cid=10553448517790925715",
+      "tripadvisorUrl": "https://www.tripadvisor.com/Attraction_Review-g274967-d27124857-Reviews-Players_Club-Riga_Riga_Region.html",
+      "mapEmbed": "https://www.google.com/maps?q=Players+Club+Barona+31+Riga&output=embed",
+      "hours": {
+        "lv": "Pirmdiena: 17.00–23.00\nOtrdiena: 17.00–23.00\nTrešdiena: 17.00–23.00\nCeturtdiena: 17.00–23.00\nPiektdiena: 13.00–02.00\nSestdiena: 12.00–02.00\nSvētdiena: 12.00–21.00",
+        "en": "Monday: 17:00–23:00\nTuesday: 17:00–23:00\nWednesday: 17:00–23:00\nThursday: 17:00–23:00\nFriday: 13:00–02:00\nSaturday: 12:00–02:00\nSunday: 12:00–21:00"
+      },
+      "published": true,
+      "menuUrl": ""
+    }
+  ],
+  "events": [
+    {
+      "id": "07cbbddf-b048-44dc-b262-76d95eae13f9",
+      "title": {
+        "lv": "Oktobra Kalendārs",
+        "en": "October calendar "
+      },
+      "description": {
+        "lv": "Visi players club notikumi oktobrī",
+        "en": "All events during October "
+      },
+      "date": "2026-10-01",
+      "endDate": "2026-10-01",
+      "locationId": "",
+      "image": "/assets/imported/22b2ea76-e59b-4921-b352-03eb1d67da81.png",
+      "link": "",
+      "published": true
+    }
+  ],
+  "menuSchemaVersion": 1,
+  "gamesSchemaVersion": 1
+}

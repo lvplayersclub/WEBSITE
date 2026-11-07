@@ -1,0 +1,10 @@
+packages:
+  - .
+allowBuilds:
+  esbuild: true
+  fsevents: true
+  sharp: true
+  unrs-resolver: true
+  workerd: true
+overrides:
+  miniflare>sharp: 0.35.4

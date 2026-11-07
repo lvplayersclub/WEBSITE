@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.vinext/
+.next/
+.wrangler/
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+!.dev.vars.example
+*.tsbuildinfo
+.DS_Store
+*.pem
+*.key
+*.log
+.npmrc
