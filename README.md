@@ -6,7 +6,7 @@ Publiskās lapas atveras bez paroles. `/admin` un `/admin/preview` (Editing mode
 
 ## Kas ir šajā projektā
 
-- Mājaslapas avota kods, sākotnējie attēli un video, daļa no augšupielādētajiem attēliem un publicētā satura kopija.
+- Mājaslapas avota kods, sākotnējie attēli un video, visi eksportā izmantotie augšupielādētie attēli un video un publicētā satura kopija.
 - Satura sākotnējā kopija: `lib/initial-content.json`. Jaunā D1 datubāzē tā tiek izmantota līdz pirmajai saglabāšanai administratorā.
 - No vecās lapas pārnestie faili: `public/assets/imported/`.
 - Turpmākās administratora izmaiņas glabājas **tavā** Cloudflare D1 datubāzē; jaunie faili — **tavā** R2 glabātavā.
@@ -15,9 +15,9 @@ Publiskās lapas atveras bez paroles. `/admin` un `/admin/preview` (Editing mode
 
 Šī ir servera lietotne (React + Vinext + Cloudflare Workers). GitHub glabā kodu; GitHub Pages viens pats nevar palaist šo administrāciju un datubāzi.
 
-## Attēlu pārnešana — vēl jāpabeidz
+## Attēlu un video pārnešana — pabeigta
 
-Šajā sākotnējā pakotnē vēl trūkst 22 augšupielādētu failu. Skaties `docs/MIGRATION-STATUS.md`. Pirms publicēšanas izpildi `pnpm media:fetch` un `pnpm check:assets` vai pievieno failus manuāli. Publicēšanas komanda atsakās publicēt, ja faili nav pārnesti.
+Visi 44 eksportā izmantotie augšupielādētie faili ir saglabāti mapē `public/assets/imported/`. Papildu lejupielāde nav vajadzīga. Pilnīgumu pārbauda `pnpm check:assets`; pārnešanas statuss ir `docs/MIGRATION-STATUS.md`.
 
 ## 1. Augšupielāde GitHub
 
